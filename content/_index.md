@@ -21,4 +21,4 @@ type: docs
 
 ## 제공 방식
 
-JSON, HTTP API 로 제공합니다. 
+[JSON](https://kr-legal-dong.github.io/docs/json), [HTTP API](https://kr-legal-dong.github.io/docs/http-api) 로 제공합니다. 
