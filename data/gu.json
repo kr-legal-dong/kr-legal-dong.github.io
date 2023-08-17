@@ -1,0 +1,2282 @@
+[
+ {
+  "code": "1111000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 종로구",
+  "name": "종로구",
+  "active": true
+ },
+ {
+  "code": "1114000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "1117000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 용산구",
+  "name": "용산구",
+  "active": true
+ },
+ {
+  "code": "1120000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 성동구",
+  "name": "성동구",
+  "active": true
+ },
+ {
+  "code": "1121500000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 광진구",
+  "name": "광진구",
+  "active": true
+ },
+ {
+  "code": "1123000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 동대문구",
+  "name": "동대문구",
+  "active": true
+ },
+ {
+  "code": "1126000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 중랑구",
+  "name": "중랑구",
+  "active": true
+ },
+ {
+  "code": "1129000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 성북구",
+  "name": "성북구",
+  "active": true
+ },
+ {
+  "code": "1130500000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 강북구",
+  "name": "강북구",
+  "active": true
+ },
+ {
+  "code": "1132000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 도봉구",
+  "name": "도봉구",
+  "active": true
+ },
+ {
+  "code": "1135000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 노원구",
+  "name": "노원구",
+  "active": true
+ },
+ {
+  "code": "1138000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 은평구",
+  "name": "은평구",
+  "active": true
+ },
+ {
+  "code": "1141000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 서대문구",
+  "name": "서대문구",
+  "active": true
+ },
+ {
+  "code": "1144000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 마포구",
+  "name": "마포구",
+  "active": true
+ },
+ {
+  "code": "1147000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 양천구",
+  "name": "양천구",
+  "active": true
+ },
+ {
+  "code": "1150000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 강서구",
+  "name": "강서구",
+  "active": true
+ },
+ {
+  "code": "1153000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 구로구",
+  "name": "구로구",
+  "active": true
+ },
+ {
+  "code": "1154500000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 금천구",
+  "name": "금천구",
+  "active": true
+ },
+ {
+  "code": "1156000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 영등포구",
+  "name": "영등포구",
+  "active": true
+ },
+ {
+  "code": "1159000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 동작구",
+  "name": "동작구",
+  "active": true
+ },
+ {
+  "code": "1162000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 관악구",
+  "name": "관악구",
+  "active": true
+ },
+ {
+  "code": "1165000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 서초구",
+  "name": "서초구",
+  "active": true
+ },
+ {
+  "code": "1168000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 강남구",
+  "name": "강남구",
+  "active": true
+ },
+ {
+  "code": "1171000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 송파구",
+  "name": "송파구",
+  "active": true
+ },
+ {
+  "code": "1174000000",
+  "siCode": "1100000000",
+  "siName": "서울특별시",
+  "fullName": "서울특별시 강동구",
+  "name": "강동구",
+  "active": true
+ },
+ {
+  "code": "2611000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "2614000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 서구",
+  "name": "서구",
+  "active": true
+ },
+ {
+  "code": "2617000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "2620000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 영도구",
+  "name": "영도구",
+  "active": true
+ },
+ {
+  "code": "2623000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 부산진구",
+  "name": "부산진구",
+  "active": true
+ },
+ {
+  "code": "2626000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 동래구",
+  "name": "동래구",
+  "active": true
+ },
+ {
+  "code": "2629000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 남구",
+  "name": "남구",
+  "active": true
+ },
+ {
+  "code": "2632000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 북구",
+  "name": "북구",
+  "active": true
+ },
+ {
+  "code": "2635000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 해운대구",
+  "name": "해운대구",
+  "active": true
+ },
+ {
+  "code": "2638000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 사하구",
+  "name": "사하구",
+  "active": true
+ },
+ {
+  "code": "2641000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 금정구",
+  "name": "금정구",
+  "active": true
+ },
+ {
+  "code": "2644000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 강서구",
+  "name": "강서구",
+  "active": true
+ },
+ {
+  "code": "2647000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 연제구",
+  "name": "연제구",
+  "active": true
+ },
+ {
+  "code": "2650000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 수영구",
+  "name": "수영구",
+  "active": true
+ },
+ {
+  "code": "2653000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 사상구",
+  "name": "사상구",
+  "active": true
+ },
+ {
+  "code": "2671000000",
+  "siCode": "2600000000",
+  "siName": "부산광역시",
+  "fullName": "부산광역시 기장군",
+  "name": "기장군",
+  "active": true
+ },
+ {
+  "code": "2711000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "2714000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "2717000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 서구",
+  "name": "서구",
+  "active": true
+ },
+ {
+  "code": "2720000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 남구",
+  "name": "남구",
+  "active": true
+ },
+ {
+  "code": "2723000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 북구",
+  "name": "북구",
+  "active": true
+ },
+ {
+  "code": "2726000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 수성구",
+  "name": "수성구",
+  "active": true
+ },
+ {
+  "code": "2729000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 달서구",
+  "name": "달서구",
+  "active": true
+ },
+ {
+  "code": "2771000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 달성군",
+  "name": "달성군",
+  "active": true
+ },
+ {
+  "code": "2772000000",
+  "siCode": "2700000000",
+  "siName": "대구광역시",
+  "fullName": "대구광역시 군위군",
+  "name": "군위군",
+  "active": true
+ },
+ {
+  "code": "2811000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "2814000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "2817700000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 미추홀구",
+  "name": "미추홀구",
+  "active": true
+ },
+ {
+  "code": "2818500000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 연수구",
+  "name": "연수구",
+  "active": true
+ },
+ {
+  "code": "2820000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 남동구",
+  "name": "남동구",
+  "active": true
+ },
+ {
+  "code": "2823700000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 부평구",
+  "name": "부평구",
+  "active": true
+ },
+ {
+  "code": "2824500000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 계양구",
+  "name": "계양구",
+  "active": true
+ },
+ {
+  "code": "2826000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 서구",
+  "name": "서구",
+  "active": true
+ },
+ {
+  "code": "2871000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 강화군",
+  "name": "강화군",
+  "active": true
+ },
+ {
+  "code": "2872000000",
+  "siCode": "2800000000",
+  "siName": "인천광역시",
+  "fullName": "인천광역시 옹진군",
+  "name": "옹진군",
+  "active": true
+ },
+ {
+  "code": "2911000000",
+  "siCode": "2900000000",
+  "siName": "광주광역시",
+  "fullName": "광주광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "2914000000",
+  "siCode": "2900000000",
+  "siName": "광주광역시",
+  "fullName": "광주광역시 서구",
+  "name": "서구",
+  "active": true
+ },
+ {
+  "code": "2915500000",
+  "siCode": "2900000000",
+  "siName": "광주광역시",
+  "fullName": "광주광역시 남구",
+  "name": "남구",
+  "active": true
+ },
+ {
+  "code": "2917000000",
+  "siCode": "2900000000",
+  "siName": "광주광역시",
+  "fullName": "광주광역시 북구",
+  "name": "북구",
+  "active": true
+ },
+ {
+  "code": "2920000000",
+  "siCode": "2900000000",
+  "siName": "광주광역시",
+  "fullName": "광주광역시 광산구",
+  "name": "광산구",
+  "active": true
+ },
+ {
+  "code": "3011000000",
+  "siCode": "3000000000",
+  "siName": "대전광역시",
+  "fullName": "대전광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "3014000000",
+  "siCode": "3000000000",
+  "siName": "대전광역시",
+  "fullName": "대전광역시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "3017000000",
+  "siCode": "3000000000",
+  "siName": "대전광역시",
+  "fullName": "대전광역시 서구",
+  "name": "서구",
+  "active": true
+ },
+ {
+  "code": "3020000000",
+  "siCode": "3000000000",
+  "siName": "대전광역시",
+  "fullName": "대전광역시 유성구",
+  "name": "유성구",
+  "active": true
+ },
+ {
+  "code": "3023000000",
+  "siCode": "3000000000",
+  "siName": "대전광역시",
+  "fullName": "대전광역시 대덕구",
+  "name": "대덕구",
+  "active": true
+ },
+ {
+  "code": "3111000000",
+  "siCode": "3100000000",
+  "siName": "울산광역시",
+  "fullName": "울산광역시 중구",
+  "name": "중구",
+  "active": true
+ },
+ {
+  "code": "3114000000",
+  "siCode": "3100000000",
+  "siName": "울산광역시",
+  "fullName": "울산광역시 남구",
+  "name": "남구",
+  "active": true
+ },
+ {
+  "code": "3117000000",
+  "siCode": "3100000000",
+  "siName": "울산광역시",
+  "fullName": "울산광역시 동구",
+  "name": "동구",
+  "active": true
+ },
+ {
+  "code": "3120000000",
+  "siCode": "3100000000",
+  "siName": "울산광역시",
+  "fullName": "울산광역시 북구",
+  "name": "북구",
+  "active": true
+ },
+ {
+  "code": "3171000000",
+  "siCode": "3100000000",
+  "siName": "울산광역시",
+  "fullName": "울산광역시 울주군",
+  "name": "울주군",
+  "active": true
+ },
+ {
+  "code": "4111000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 수원시",
+  "name": "수원시",
+  "active": true
+ },
+ {
+  "code": "4111100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 수원시 장안구",
+  "name": "수원시 장안구",
+  "active": true
+ },
+ {
+  "code": "4111300000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 수원시 권선구",
+  "name": "수원시 권선구",
+  "active": true
+ },
+ {
+  "code": "4111500000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 수원시 팔달구",
+  "name": "수원시 팔달구",
+  "active": true
+ },
+ {
+  "code": "4111700000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 수원시 영통구",
+  "name": "수원시 영통구",
+  "active": true
+ },
+ {
+  "code": "4113000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 성남시",
+  "name": "성남시",
+  "active": true
+ },
+ {
+  "code": "4113100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 성남시 수정구",
+  "name": "성남시 수정구",
+  "active": true
+ },
+ {
+  "code": "4113300000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 성남시 중원구",
+  "name": "성남시 중원구",
+  "active": true
+ },
+ {
+  "code": "4113500000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 성남시 분당구",
+  "name": "성남시 분당구",
+  "active": true
+ },
+ {
+  "code": "4115000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 의정부시",
+  "name": "의정부시",
+  "active": true
+ },
+ {
+  "code": "4117000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안양시",
+  "name": "안양시",
+  "active": true
+ },
+ {
+  "code": "4117100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안양시 만안구",
+  "name": "안양시 만안구",
+  "active": true
+ },
+ {
+  "code": "4117300000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안양시 동안구",
+  "name": "안양시 동안구",
+  "active": true
+ },
+ {
+  "code": "4119000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 부천시",
+  "name": "부천시",
+  "active": true
+ },
+ {
+  "code": "4121000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 광명시",
+  "name": "광명시",
+  "active": true
+ },
+ {
+  "code": "4122000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 평택시",
+  "name": "평택시",
+  "active": true
+ },
+ {
+  "code": "4125000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 동두천시",
+  "name": "동두천시",
+  "active": true
+ },
+ {
+  "code": "4127000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안산시",
+  "name": "안산시",
+  "active": true
+ },
+ {
+  "code": "4127100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안산시 상록구",
+  "name": "안산시 상록구",
+  "active": true
+ },
+ {
+  "code": "4127300000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안산시 단원구",
+  "name": "안산시 단원구",
+  "active": true
+ },
+ {
+  "code": "4128000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 고양시",
+  "name": "고양시",
+  "active": true
+ },
+ {
+  "code": "4128100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 고양시 덕양구",
+  "name": "고양시 덕양구",
+  "active": true
+ },
+ {
+  "code": "4128500000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 고양시 일산동구",
+  "name": "고양시 일산동구",
+  "active": true
+ },
+ {
+  "code": "4128700000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 고양시 일산서구",
+  "name": "고양시 일산서구",
+  "active": true
+ },
+ {
+  "code": "4129000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 과천시",
+  "name": "과천시",
+  "active": true
+ },
+ {
+  "code": "4131000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 구리시",
+  "name": "구리시",
+  "active": true
+ },
+ {
+  "code": "4136000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 남양주시",
+  "name": "남양주시",
+  "active": true
+ },
+ {
+  "code": "4137000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 오산시",
+  "name": "오산시",
+  "active": true
+ },
+ {
+  "code": "4139000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 시흥시",
+  "name": "시흥시",
+  "active": true
+ },
+ {
+  "code": "4141000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 군포시",
+  "name": "군포시",
+  "active": true
+ },
+ {
+  "code": "4143000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 의왕시",
+  "name": "의왕시",
+  "active": true
+ },
+ {
+  "code": "4145000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 하남시",
+  "name": "하남시",
+  "active": true
+ },
+ {
+  "code": "4146000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 용인시",
+  "name": "용인시",
+  "active": true
+ },
+ {
+  "code": "4146100000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 용인시 처인구",
+  "name": "용인시 처인구",
+  "active": true
+ },
+ {
+  "code": "4146300000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 용인시 기흥구",
+  "name": "용인시 기흥구",
+  "active": true
+ },
+ {
+  "code": "4146500000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 용인시 수지구",
+  "name": "용인시 수지구",
+  "active": true
+ },
+ {
+  "code": "4148000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 파주시",
+  "name": "파주시",
+  "active": true
+ },
+ {
+  "code": "4150000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 이천시",
+  "name": "이천시",
+  "active": true
+ },
+ {
+  "code": "4155000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 안성시",
+  "name": "안성시",
+  "active": true
+ },
+ {
+  "code": "4157000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 김포시",
+  "name": "김포시",
+  "active": true
+ },
+ {
+  "code": "4159000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 화성시",
+  "name": "화성시",
+  "active": true
+ },
+ {
+  "code": "4161000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 광주시",
+  "name": "광주시",
+  "active": true
+ },
+ {
+  "code": "4163000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 양주시",
+  "name": "양주시",
+  "active": true
+ },
+ {
+  "code": "4165000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 포천시",
+  "name": "포천시",
+  "active": true
+ },
+ {
+  "code": "4167000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 여주시",
+  "name": "여주시",
+  "active": true
+ },
+ {
+  "code": "4171000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 양주군",
+  "name": "양주군",
+  "active": false
+ },
+ {
+  "code": "4180000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 연천군",
+  "name": "연천군",
+  "active": true
+ },
+ {
+  "code": "4181000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 포천군",
+  "name": "포천군",
+  "active": false
+ },
+ {
+  "code": "4182000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 가평군",
+  "name": "가평군",
+  "active": true
+ },
+ {
+  "code": "4183000000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "fullName": "경기도 양평군",
+  "name": "양평군",
+  "active": true
+ },
+ {
+  "code": "4211000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 춘천시",
+  "name": "춘천시",
+  "active": false
+ },
+ {
+  "code": "4213000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 원주시",
+  "name": "원주시",
+  "active": false
+ },
+ {
+  "code": "4215000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 강릉시",
+  "name": "강릉시",
+  "active": false
+ },
+ {
+  "code": "4217000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 동해시",
+  "name": "동해시",
+  "active": false
+ },
+ {
+  "code": "4219000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 태백시",
+  "name": "태백시",
+  "active": false
+ },
+ {
+  "code": "4221000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 속초시",
+  "name": "속초시",
+  "active": false
+ },
+ {
+  "code": "4223000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 삼척시",
+  "name": "삼척시",
+  "active": false
+ },
+ {
+  "code": "4272000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 홍천군",
+  "name": "홍천군",
+  "active": false
+ },
+ {
+  "code": "4273000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 횡성군",
+  "name": "횡성군",
+  "active": false
+ },
+ {
+  "code": "4275000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 영월군",
+  "name": "영월군",
+  "active": false
+ },
+ {
+  "code": "4276000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 평창군",
+  "name": "평창군",
+  "active": false
+ },
+ {
+  "code": "4277000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 정선군",
+  "name": "정선군",
+  "active": false
+ },
+ {
+  "code": "4278000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 철원군",
+  "name": "철원군",
+  "active": false
+ },
+ {
+  "code": "4279000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 화천군",
+  "name": "화천군",
+  "active": false
+ },
+ {
+  "code": "4280000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 양구군",
+  "name": "양구군",
+  "active": false
+ },
+ {
+  "code": "4281000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 인제군",
+  "name": "인제군",
+  "active": false
+ },
+ {
+  "code": "4282000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 고성군",
+  "name": "고성군",
+  "active": false
+ },
+ {
+  "code": "4283000000",
+  "siCode": "4200000000",
+  "siName": "강원도",
+  "fullName": "강원도 양양군",
+  "name": "양양군",
+  "active": false
+ },
+ {
+  "code": "4311000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 청주시",
+  "name": "청주시",
+  "active": true
+ },
+ {
+  "code": "4311100000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 청주시 상당구",
+  "name": "청주시 상당구",
+  "active": true
+ },
+ {
+  "code": "4311200000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 청주시 서원구",
+  "name": "청주시 서원구",
+  "active": true
+ },
+ {
+  "code": "4311300000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 청주시 흥덕구",
+  "name": "청주시 흥덕구",
+  "active": true
+ },
+ {
+  "code": "4311400000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 청주시 청원구",
+  "name": "청주시 청원구",
+  "active": true
+ },
+ {
+  "code": "4313000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 충주시",
+  "name": "충주시",
+  "active": true
+ },
+ {
+  "code": "4315000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 제천시",
+  "name": "제천시",
+  "active": true
+ },
+ {
+  "code": "4372000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 보은군",
+  "name": "보은군",
+  "active": true
+ },
+ {
+  "code": "4373000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 옥천군",
+  "name": "옥천군",
+  "active": true
+ },
+ {
+  "code": "4374000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 영동군",
+  "name": "영동군",
+  "active": true
+ },
+ {
+  "code": "4374500000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 증평군",
+  "name": "증평군",
+  "active": true
+ },
+ {
+  "code": "4375000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 진천군",
+  "name": "진천군",
+  "active": true
+ },
+ {
+  "code": "4376000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 괴산군",
+  "name": "괴산군",
+  "active": true
+ },
+ {
+  "code": "4377000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 음성군",
+  "name": "음성군",
+  "active": true
+ },
+ {
+  "code": "4380000000",
+  "siCode": "4300000000",
+  "siName": "충청북도",
+  "fullName": "충청북도 단양군",
+  "name": "단양군",
+  "active": true
+ },
+ {
+  "code": "4413000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 천안시",
+  "name": "천안시",
+  "active": true
+ },
+ {
+  "code": "4413100000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 천안시 동남구",
+  "name": "천안시 동남구",
+  "active": true
+ },
+ {
+  "code": "4413300000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 천안시 서북구",
+  "name": "천안시 서북구",
+  "active": true
+ },
+ {
+  "code": "4415000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 공주시",
+  "name": "공주시",
+  "active": true
+ },
+ {
+  "code": "4418000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 보령시",
+  "name": "보령시",
+  "active": true
+ },
+ {
+  "code": "4420000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 아산시",
+  "name": "아산시",
+  "active": true
+ },
+ {
+  "code": "4421000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 서산시",
+  "name": "서산시",
+  "active": true
+ },
+ {
+  "code": "4423000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 논산시",
+  "name": "논산시",
+  "active": true
+ },
+ {
+  "code": "4425000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 계룡시",
+  "name": "계룡시",
+  "active": true
+ },
+ {
+  "code": "4427000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 당진시",
+  "name": "당진시",
+  "active": true
+ },
+ {
+  "code": "4471000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 금산군",
+  "name": "금산군",
+  "active": true
+ },
+ {
+  "code": "4476000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 부여군",
+  "name": "부여군",
+  "active": true
+ },
+ {
+  "code": "4477000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 서천군",
+  "name": "서천군",
+  "active": true
+ },
+ {
+  "code": "4479000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 청양군",
+  "name": "청양군",
+  "active": true
+ },
+ {
+  "code": "4480000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 홍성군",
+  "name": "홍성군",
+  "active": true
+ },
+ {
+  "code": "4481000000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 예산군",
+  "name": "예산군",
+  "active": true
+ },
+ {
+  "code": "4482500000",
+  "siCode": "4400000000",
+  "siName": "충청남도",
+  "fullName": "충청남도 태안군",
+  "name": "태안군",
+  "active": true
+ },
+ {
+  "code": "4511000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 전주시",
+  "name": "전주시",
+  "active": true
+ },
+ {
+  "code": "4511100000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 전주시 완산구",
+  "name": "전주시 완산구",
+  "active": true
+ },
+ {
+  "code": "4511300000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 전주시 덕진구",
+  "name": "전주시 덕진구",
+  "active": true
+ },
+ {
+  "code": "4513000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 군산시",
+  "name": "군산시",
+  "active": true
+ },
+ {
+  "code": "4514000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 익산시",
+  "name": "익산시",
+  "active": true
+ },
+ {
+  "code": "4518000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 정읍시",
+  "name": "정읍시",
+  "active": true
+ },
+ {
+  "code": "4519000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 남원시",
+  "name": "남원시",
+  "active": true
+ },
+ {
+  "code": "4521000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 김제시",
+  "name": "김제시",
+  "active": true
+ },
+ {
+  "code": "4571000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 완주군",
+  "name": "완주군",
+  "active": true
+ },
+ {
+  "code": "4572000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 진안군",
+  "name": "진안군",
+  "active": true
+ },
+ {
+  "code": "4573000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 무주군",
+  "name": "무주군",
+  "active": true
+ },
+ {
+  "code": "4574000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 장수군",
+  "name": "장수군",
+  "active": true
+ },
+ {
+  "code": "4575000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 임실군",
+  "name": "임실군",
+  "active": true
+ },
+ {
+  "code": "4577000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 순창군",
+  "name": "순창군",
+  "active": true
+ },
+ {
+  "code": "4579000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 고창군",
+  "name": "고창군",
+  "active": true
+ },
+ {
+  "code": "4580000000",
+  "siCode": "4500000000",
+  "siName": "전라북도",
+  "fullName": "전라북도 부안군",
+  "name": "부안군",
+  "active": true
+ },
+ {
+  "code": "4611000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 목포시",
+  "name": "목포시",
+  "active": true
+ },
+ {
+  "code": "4613000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 여수시",
+  "name": "여수시",
+  "active": true
+ },
+ {
+  "code": "4615000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 순천시",
+  "name": "순천시",
+  "active": true
+ },
+ {
+  "code": "4617000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 나주시",
+  "name": "나주시",
+  "active": true
+ },
+ {
+  "code": "4623000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 광양시",
+  "name": "광양시",
+  "active": true
+ },
+ {
+  "code": "4671000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 담양군",
+  "name": "담양군",
+  "active": true
+ },
+ {
+  "code": "4672000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 곡성군",
+  "name": "곡성군",
+  "active": true
+ },
+ {
+  "code": "4673000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 구례군",
+  "name": "구례군",
+  "active": true
+ },
+ {
+  "code": "4677000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 고흥군",
+  "name": "고흥군",
+  "active": true
+ },
+ {
+  "code": "4678000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 보성군",
+  "name": "보성군",
+  "active": true
+ },
+ {
+  "code": "4679000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 화순군",
+  "name": "화순군",
+  "active": true
+ },
+ {
+  "code": "4680000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 장흥군",
+  "name": "장흥군",
+  "active": true
+ },
+ {
+  "code": "4681000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 강진군",
+  "name": "강진군",
+  "active": true
+ },
+ {
+  "code": "4682000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 해남군",
+  "name": "해남군",
+  "active": true
+ },
+ {
+  "code": "4683000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 영암군",
+  "name": "영암군",
+  "active": true
+ },
+ {
+  "code": "4684000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 무안군",
+  "name": "무안군",
+  "active": true
+ },
+ {
+  "code": "4686000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 함평군",
+  "name": "함평군",
+  "active": true
+ },
+ {
+  "code": "4687000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 영광군",
+  "name": "영광군",
+  "active": true
+ },
+ {
+  "code": "4688000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 장성군",
+  "name": "장성군",
+  "active": true
+ },
+ {
+  "code": "4689000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 완도군",
+  "name": "완도군",
+  "active": true
+ },
+ {
+  "code": "4690000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 진도군",
+  "name": "진도군",
+  "active": true
+ },
+ {
+  "code": "4691000000",
+  "siCode": "4600000000",
+  "siName": "전라남도",
+  "fullName": "전라남도 신안군",
+  "name": "신안군",
+  "active": true
+ },
+ {
+  "code": "4711000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 포항시",
+  "name": "포항시",
+  "active": true
+ },
+ {
+  "code": "4711100000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 포항시 남구",
+  "name": "포항시 남구",
+  "active": true
+ },
+ {
+  "code": "4711300000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 포항시 북구",
+  "name": "포항시 북구",
+  "active": true
+ },
+ {
+  "code": "4713000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 경주시",
+  "name": "경주시",
+  "active": true
+ },
+ {
+  "code": "4715000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 김천시",
+  "name": "김천시",
+  "active": true
+ },
+ {
+  "code": "4717000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 안동시",
+  "name": "안동시",
+  "active": true
+ },
+ {
+  "code": "4719000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 구미시",
+  "name": "구미시",
+  "active": true
+ },
+ {
+  "code": "4721000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 영주시",
+  "name": "영주시",
+  "active": true
+ },
+ {
+  "code": "4723000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 영천시",
+  "name": "영천시",
+  "active": true
+ },
+ {
+  "code": "4725000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 상주시",
+  "name": "상주시",
+  "active": true
+ },
+ {
+  "code": "4728000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 문경시",
+  "name": "문경시",
+  "active": true
+ },
+ {
+  "code": "4729000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 경산시",
+  "name": "경산시",
+  "active": true
+ },
+ {
+  "code": "4772000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 군위군",
+  "name": "군위군",
+  "active": false
+ },
+ {
+  "code": "4773000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 의성군",
+  "name": "의성군",
+  "active": true
+ },
+ {
+  "code": "4775000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 청송군",
+  "name": "청송군",
+  "active": true
+ },
+ {
+  "code": "4776000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 영양군",
+  "name": "영양군",
+  "active": true
+ },
+ {
+  "code": "4777000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 영덕군",
+  "name": "영덕군",
+  "active": true
+ },
+ {
+  "code": "4782000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 청도군",
+  "name": "청도군",
+  "active": true
+ },
+ {
+  "code": "4783000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 고령군",
+  "name": "고령군",
+  "active": true
+ },
+ {
+  "code": "4784000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 성주군",
+  "name": "성주군",
+  "active": true
+ },
+ {
+  "code": "4785000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 칠곡군",
+  "name": "칠곡군",
+  "active": true
+ },
+ {
+  "code": "4790000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 예천군",
+  "name": "예천군",
+  "active": true
+ },
+ {
+  "code": "4792000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 봉화군",
+  "name": "봉화군",
+  "active": true
+ },
+ {
+  "code": "4793000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 울진군",
+  "name": "울진군",
+  "active": true
+ },
+ {
+  "code": "4794000000",
+  "siCode": "4700000000",
+  "siName": "경상북도",
+  "fullName": "경상북도 울릉군",
+  "name": "울릉군",
+  "active": true
+ },
+ {
+  "code": "4812000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시",
+  "name": "창원시",
+  "active": true
+ },
+ {
+  "code": "4812100000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시 의창구",
+  "name": "창원시 의창구",
+  "active": true
+ },
+ {
+  "code": "4812300000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시 성산구",
+  "name": "창원시 성산구",
+  "active": true
+ },
+ {
+  "code": "4812500000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시 마산합포구",
+  "name": "창원시 마산합포구",
+  "active": true
+ },
+ {
+  "code": "4812700000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시 마산회원구",
+  "name": "창원시 마산회원구",
+  "active": true
+ },
+ {
+  "code": "4812900000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창원시 진해구",
+  "name": "창원시 진해구",
+  "active": true
+ },
+ {
+  "code": "4815000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 마산시",
+  "name": "마산시",
+  "active": false
+ },
+ {
+  "code": "4815100000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 마산시 합포구",
+  "name": "마산시 합포구",
+  "active": false
+ },
+ {
+  "code": "4815300000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 마산시 회원구",
+  "name": "마산시 회원구",
+  "active": false
+ },
+ {
+  "code": "4816000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 마산시",
+  "name": "마산시",
+  "active": false
+ },
+ {
+  "code": "4817000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 진주시",
+  "name": "진주시",
+  "active": true
+ },
+ {
+  "code": "4822000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 통영시",
+  "name": "통영시",
+  "active": true
+ },
+ {
+  "code": "4824000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 사천시",
+  "name": "사천시",
+  "active": true
+ },
+ {
+  "code": "4825000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 김해시",
+  "name": "김해시",
+  "active": true
+ },
+ {
+  "code": "4827000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 밀양시",
+  "name": "밀양시",
+  "active": true
+ },
+ {
+  "code": "4831000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 거제시",
+  "name": "거제시",
+  "active": true
+ },
+ {
+  "code": "4833000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 양산시",
+  "name": "양산시",
+  "active": true
+ },
+ {
+  "code": "4872000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 의령군",
+  "name": "의령군",
+  "active": true
+ },
+ {
+  "code": "4873000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 함안군",
+  "name": "함안군",
+  "active": true
+ },
+ {
+  "code": "4874000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 창녕군",
+  "name": "창녕군",
+  "active": true
+ },
+ {
+  "code": "4882000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 고성군",
+  "name": "고성군",
+  "active": true
+ },
+ {
+  "code": "4884000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 남해군",
+  "name": "남해군",
+  "active": true
+ },
+ {
+  "code": "4885000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 하동군",
+  "name": "하동군",
+  "active": true
+ },
+ {
+  "code": "4886000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 산청군",
+  "name": "산청군",
+  "active": true
+ },
+ {
+  "code": "4887000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 함양군",
+  "name": "함양군",
+  "active": true
+ },
+ {
+  "code": "4888000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 거창군",
+  "name": "거창군",
+  "active": true
+ },
+ {
+  "code": "4889000000",
+  "siCode": "4800000000",
+  "siName": "경상남도",
+  "fullName": "경상남도 합천군",
+  "name": "합천군",
+  "active": true
+ },
+ {
+  "code": "5011000000",
+  "siCode": "5000000000",
+  "siName": "제주특별자치도",
+  "fullName": "제주특별자치도 제주시",
+  "name": "제주시",
+  "active": true
+ },
+ {
+  "code": "5013000000",
+  "siCode": "5000000000",
+  "siName": "제주특별자치도",
+  "fullName": "제주특별자치도 서귀포시",
+  "name": "서귀포시",
+  "active": true
+ },
+ {
+  "code": "5111000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 춘천시",
+  "name": "춘천시",
+  "active": true
+ },
+ {
+  "code": "5113000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 원주시",
+  "name": "원주시",
+  "active": true
+ },
+ {
+  "code": "5115000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 강릉시",
+  "name": "강릉시",
+  "active": true
+ },
+ {
+  "code": "5117000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 동해시",
+  "name": "동해시",
+  "active": true
+ },
+ {
+  "code": "5119000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 태백시",
+  "name": "태백시",
+  "active": true
+ },
+ {
+  "code": "5121000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 속초시",
+  "name": "속초시",
+  "active": true
+ },
+ {
+  "code": "5123000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 삼척시",
+  "name": "삼척시",
+  "active": true
+ },
+ {
+  "code": "5172000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 홍천군",
+  "name": "홍천군",
+  "active": true
+ },
+ {
+  "code": "5173000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 횡성군",
+  "name": "횡성군",
+  "active": true
+ },
+ {
+  "code": "5175000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 영월군",
+  "name": "영월군",
+  "active": true
+ },
+ {
+  "code": "5176000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 평창군",
+  "name": "평창군",
+  "active": true
+ },
+ {
+  "code": "5177000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 정선군",
+  "name": "정선군",
+  "active": true
+ },
+ {
+  "code": "5178000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 철원군",
+  "name": "철원군",
+  "active": true
+ },
+ {
+  "code": "5179000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 화천군",
+  "name": "화천군",
+  "active": true
+ },
+ {
+  "code": "5180000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 양구군",
+  "name": "양구군",
+  "active": true
+ },
+ {
+  "code": "5181000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 인제군",
+  "name": "인제군",
+  "active": true
+ },
+ {
+  "code": "5182000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 고성군",
+  "name": "고성군",
+  "active": true
+ },
+ {
+  "code": "5183000000",
+  "siCode": "5100000000",
+  "siName": "강원특별자치도",
+  "fullName": "강원특별자치도 양양군",
+  "name": "양양군",
+  "active": true
+ }
+]
