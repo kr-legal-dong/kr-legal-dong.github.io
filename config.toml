@@ -1,0 +1,5 @@
+title = 'KR LEGAL DONG'
+theme = 'hugo-book'
+
+[params]
+  BookTheme = 'dark'
