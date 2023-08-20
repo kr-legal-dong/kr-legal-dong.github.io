@@ -1,5 +1,7 @@
 title = 'KR LEGAL DONG'
 theme = 'hugo-book'
 
+disableKinds = ['sitemap']
+
 [params]
   BookTheme = 'dark'
