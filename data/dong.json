@@ -16950,6 +16950,36 @@
   "active": true
  },
  {
+  "code": "4119200000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "guCode": "4119000000",
+  "guName": "부천시",
+  "fullName": "경기도 부천시 원미구 ",
+  "name": "원미구",
+  "active": true
+ },
+ {
+  "code": "4119400000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "guCode": "4119000000",
+  "guName": "부천시",
+  "fullName": "경기도 부천시 소사구 ",
+  "name": "소사구",
+  "active": true
+ },
+ {
+  "code": "4119600000",
+  "siCode": "4100000000",
+  "siName": "경기도",
+  "guCode": "4119000000",
+  "guName": "부천시",
+  "fullName": "경기도 부천시 오정구 ",
+  "name": "오정구",
+  "active": true
+ },
+ {
   "code": "4121010100",
   "siCode": "4100000000",
   "siName": "경기도",
