@@ -16717,7 +16717,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 원미동",
   "name": "원미동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010200",
@@ -16727,7 +16727,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 심곡동",
   "name": "심곡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010300",
@@ -16737,7 +16737,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 춘의동",
   "name": "춘의동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010400",
@@ -16747,7 +16747,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 도당동",
   "name": "도당동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010500",
@@ -16757,7 +16757,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 약대동",
   "name": "약대동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010600",
@@ -16767,7 +16767,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 소사동",
   "name": "소사동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010700",
@@ -16777,7 +16777,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 역곡동",
   "name": "역곡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010800",
@@ -16787,7 +16787,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 중동",
   "name": "중동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119010900",
@@ -16797,7 +16797,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 상동",
   "name": "상동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011000",
@@ -16807,7 +16807,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 소사본동",
   "name": "소사본동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011100",
@@ -16817,7 +16817,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 심곡본동",
   "name": "심곡본동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011200",
@@ -16827,7 +16827,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 범박동",
   "name": "범박동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011300",
@@ -16837,7 +16837,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 괴안동",
   "name": "괴안동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011400",
@@ -16847,7 +16847,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 송내동",
   "name": "송내동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011500",
@@ -16857,7 +16857,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 옥길동",
   "name": "옥길동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011600",
@@ -16867,7 +16867,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 계수동",
   "name": "계수동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011700",
@@ -16877,7 +16877,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 오정동",
   "name": "오정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011800",
@@ -16887,7 +16887,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 여월동",
   "name": "여월동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119011900",
@@ -16897,7 +16897,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 작동",
   "name": "작동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119012000",
@@ -16907,7 +16907,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 원종동",
   "name": "원종동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119012100",
@@ -16917,7 +16917,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 고강동",
   "name": "고강동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119012200",
@@ -16927,7 +16927,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 대장동",
   "name": "대장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119012300",
@@ -16937,7 +16937,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 삼정동",
   "name": "삼정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119012400",
@@ -16947,7 +16947,7 @@
   "guName": "부천시",
   "fullName": "경기도 부천시 내동",
   "name": "내동",
-  "active": true
+  "active": false
  },
  {
   "code": "4119200000",
