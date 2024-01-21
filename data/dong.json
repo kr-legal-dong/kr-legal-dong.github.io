@@ -32197,7 +32197,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중앙동1가",
   "name": "중앙동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110200",
@@ -32207,7 +32207,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중앙동2가",
   "name": "중앙동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110300",
@@ -32217,7 +32217,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중앙동3가",
   "name": "중앙동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110400",
@@ -32227,7 +32227,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중앙동4가",
   "name": "중앙동4가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110500",
@@ -32237,7 +32237,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 경원동1가",
   "name": "경원동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110600",
@@ -32247,7 +32247,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 경원동2가",
   "name": "경원동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110700",
@@ -32257,7 +32257,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 경원동3가",
   "name": "경원동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110800",
@@ -32267,7 +32267,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 풍남동1가",
   "name": "풍남동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511110900",
@@ -32277,7 +32277,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 풍남동2가",
   "name": "풍남동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111000",
@@ -32287,7 +32287,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 풍남동3가",
   "name": "풍남동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111100",
@@ -32297,7 +32297,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 전동",
   "name": "전동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111200",
@@ -32307,7 +32307,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 전동3가",
   "name": "전동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111300",
@@ -32317,7 +32317,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 다가동1가",
   "name": "다가동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111400",
@@ -32327,7 +32327,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 다가동2가",
   "name": "다가동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111500",
@@ -32337,7 +32337,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 다가동3가",
   "name": "다가동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111600",
@@ -32347,7 +32347,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 다가동4가",
   "name": "다가동4가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111700",
@@ -32357,7 +32357,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 고사동",
   "name": "고사동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111800",
@@ -32367,7 +32367,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 교동",
   "name": "교동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511111900",
@@ -32377,7 +32377,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 태평동",
   "name": "태평동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112000",
@@ -32387,7 +32387,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중노송동",
   "name": "중노송동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112100",
@@ -32397,7 +32397,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 남노송동",
   "name": "남노송동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112200",
@@ -32407,7 +32407,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 동완산동",
   "name": "동완산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112300",
@@ -32417,7 +32417,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 서완산동1가",
   "name": "서완산동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112400",
@@ -32427,7 +32427,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 서완산동2가",
   "name": "서완산동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112500",
@@ -32437,7 +32437,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 동서학동",
   "name": "동서학동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112600",
@@ -32447,7 +32447,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 서서학동",
   "name": "서서학동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112700",
@@ -32457,7 +32457,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중화산동1가",
   "name": "중화산동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112800",
@@ -32467,7 +32467,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중화산동2가",
   "name": "중화산동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511112900",
@@ -32477,7 +32477,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 서신동",
   "name": "서신동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113000",
@@ -32487,7 +32487,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 석구동",
   "name": "석구동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113100",
@@ -32497,7 +32497,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 원당동",
   "name": "원당동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113200",
@@ -32507,7 +32507,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 평화동1가",
   "name": "평화동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113300",
@@ -32517,7 +32517,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 평화동2가",
   "name": "평화동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113400",
@@ -32527,7 +32527,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 평화동3가",
   "name": "평화동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113500",
@@ -32537,7 +32537,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 중인동",
   "name": "중인동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113600",
@@ -32547,7 +32547,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 용복동",
   "name": "용복동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113700",
@@ -32557,7 +32557,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 삼천동1가",
   "name": "삼천동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113800",
@@ -32567,7 +32567,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 삼천동2가",
   "name": "삼천동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511113900",
@@ -32577,7 +32577,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 삼천동3가",
   "name": "삼천동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114000",
@@ -32587,7 +32587,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 효자동1가",
   "name": "효자동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114100",
@@ -32597,7 +32597,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 효자동2가",
   "name": "효자동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114200",
@@ -32607,7 +32607,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 효자동3가",
   "name": "효자동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114300",
@@ -32617,7 +32617,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 대성동",
   "name": "대성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114400",
@@ -32627,7 +32627,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 색장동",
   "name": "색장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114500",
@@ -32637,7 +32637,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 상림동",
   "name": "상림동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511114700",
@@ -32647,7 +32647,7 @@
   "guName": "전주시 완산구",
   "fullName": "전라북도 전주시 완산구 서노송동",
   "name": "서노송동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310100",
@@ -32667,7 +32667,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 진북동",
   "name": "진북동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310300",
@@ -32677,7 +32677,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 인후동1가",
   "name": "인후동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310400",
@@ -32687,7 +32687,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 인후동2가",
   "name": "인후동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310500",
@@ -32697,7 +32697,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 덕진동1가",
   "name": "덕진동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310600",
@@ -32707,7 +32707,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 덕진동2가",
   "name": "덕진동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310700",
@@ -32717,7 +32717,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 금암동",
   "name": "금암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310800",
@@ -32727,7 +32727,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 팔복동1가",
   "name": "팔복동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511310900",
@@ -32737,7 +32737,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 팔복동2가",
   "name": "팔복동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311000",
@@ -32747,7 +32747,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 팔복동3가",
   "name": "팔복동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311100",
@@ -32757,7 +32757,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 산정동",
   "name": "산정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311200",
@@ -32767,7 +32767,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 금상동",
   "name": "금상동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311300",
@@ -32777,7 +32777,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 우아동1가",
   "name": "우아동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311400",
@@ -32787,7 +32787,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 우아동2가",
   "name": "우아동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311500",
@@ -32797,7 +32797,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 우아동3가",
   "name": "우아동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311600",
@@ -32807,7 +32807,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 호성동1가",
   "name": "호성동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311700",
@@ -32817,7 +32817,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 호성동2가",
   "name": "호성동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311800",
@@ -32827,7 +32827,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 호성동3가",
   "name": "호성동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511311900",
@@ -32837,7 +32837,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 전미동1가",
   "name": "전미동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312000",
@@ -32847,7 +32847,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 전미동2가",
   "name": "전미동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312100",
@@ -32857,7 +32857,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 송천동1가",
   "name": "송천동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312200",
@@ -32867,7 +32867,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 송천동2가",
   "name": "송천동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312300",
@@ -32877,7 +32877,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 반월동",
   "name": "반월동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312400",
@@ -32887,7 +32887,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 화전동",
   "name": "화전동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312500",
@@ -32897,7 +32897,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 용정동",
   "name": "용정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312600",
@@ -32907,7 +32907,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 성덕동",
   "name": "성덕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312700",
@@ -32917,7 +32917,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 원동",
   "name": "원동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511312900",
@@ -32927,7 +32927,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 고랑동",
   "name": "고랑동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313000",
@@ -32937,7 +32937,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 여의동",
   "name": "여의동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313100",
@@ -32947,7 +32947,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 만성동",
   "name": "만성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313200",
@@ -32957,7 +32957,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 장동",
   "name": "장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313300",
@@ -32967,7 +32967,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 팔복동4가",
   "name": "팔복동4가",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313400",
@@ -32977,7 +32977,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 도도동",
   "name": "도도동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313500",
@@ -32987,7 +32987,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 강흥동",
   "name": "강흥동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313600",
@@ -32997,7 +32997,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 도덕동",
   "name": "도덕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313700",
@@ -33007,7 +33007,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 남정동",
   "name": "남정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313800",
@@ -33017,7 +33017,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 중동",
   "name": "중동",
-  "active": true
+  "active": false
  },
  {
   "code": "4511313900",
@@ -33027,7 +33027,7 @@
   "guName": "전주시 덕진구",
   "fullName": "전라북도 전주시 덕진구 여의동2가",
   "name": "여의동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010100",
@@ -33037,7 +33037,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 해망동",
   "name": "해망동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010200",
@@ -33047,7 +33047,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 신흥동",
   "name": "신흥동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010300",
@@ -33057,7 +33057,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 금동",
   "name": "금동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010400",
@@ -33067,7 +33067,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 월명동",
   "name": "월명동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010500",
@@ -33077,7 +33077,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 신창동",
   "name": "신창동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010600",
@@ -33087,7 +33087,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 오룡동",
   "name": "오룡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010700",
@@ -33097,7 +33097,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 금광동",
   "name": "금광동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010800",
@@ -33107,7 +33107,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 신풍동",
   "name": "신풍동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513010900",
@@ -33117,7 +33117,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 송풍동",
   "name": "송풍동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011000",
@@ -33127,7 +33127,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 문화동",
   "name": "문화동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011100",
@@ -33137,7 +33137,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 삼학동",
   "name": "삼학동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011200",
@@ -33147,7 +33147,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 선양동",
   "name": "선양동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011300",
@@ -33157,7 +33157,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 둔율동",
   "name": "둔율동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011400",
@@ -33167,7 +33167,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 창성동",
   "name": "창성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011500",
@@ -33177,7 +33177,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 명산동",
   "name": "명산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011600",
@@ -33187,7 +33187,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 송창동",
   "name": "송창동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011700",
@@ -33197,7 +33197,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 개복동",
   "name": "개복동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011800",
@@ -33207,7 +33207,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 중앙로1가",
   "name": "중앙로1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4513011900",
@@ -33217,7 +33217,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 영화동",
   "name": "영화동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012000",
@@ -33227,7 +33227,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 장미동",
   "name": "장미동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012100",
@@ -33237,7 +33237,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 중앙로2가",
   "name": "중앙로2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012200",
@@ -33247,7 +33247,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 영동",
   "name": "영동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012300",
@@ -33257,7 +33257,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 신영동",
   "name": "신영동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012400",
@@ -33267,7 +33267,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 죽성동",
   "name": "죽성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012500",
@@ -33277,7 +33277,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 평화동",
   "name": "평화동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012600",
@@ -33287,7 +33287,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 중앙로3가",
   "name": "중앙로3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012700",
@@ -33297,7 +33297,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 대명동",
   "name": "대명동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012800",
@@ -33307,7 +33307,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 장재동",
   "name": "장재동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513012900",
@@ -33317,7 +33317,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 미원동",
   "name": "미원동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013000",
@@ -33327,7 +33327,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 중동",
   "name": "중동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013100",
@@ -33337,7 +33337,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 금암동",
   "name": "금암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013200",
@@ -33347,7 +33347,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 동흥남동",
   "name": "동흥남동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013300",
@@ -33357,7 +33357,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 서흥남동",
   "name": "서흥남동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013400",
@@ -33367,7 +33367,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 조촌동",
   "name": "조촌동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013500",
@@ -33377,7 +33377,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 경장동",
   "name": "경장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013600",
@@ -33387,7 +33387,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 경암동",
   "name": "경암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013700",
@@ -33397,7 +33397,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 구암동",
   "name": "구암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013800",
@@ -33407,7 +33407,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 내흥동",
   "name": "내흥동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513013900",
@@ -33417,7 +33417,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 개정동",
   "name": "개정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014000",
@@ -33427,7 +33427,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 사정동",
   "name": "사정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014100",
@@ -33437,7 +33437,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 수송동",
   "name": "수송동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014200",
@@ -33447,7 +33447,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 미장동",
   "name": "미장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014300",
@@ -33457,7 +33457,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 지곡동",
   "name": "지곡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014400",
@@ -33467,7 +33467,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 나운동",
   "name": "나운동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014500",
@@ -33477,7 +33477,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 미룡동",
   "name": "미룡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014600",
@@ -33487,7 +33487,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 소룡동",
   "name": "소룡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014700",
@@ -33497,7 +33497,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 오식도동",
   "name": "오식도동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014800",
@@ -33507,7 +33507,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 비응도동",
   "name": "비응도동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513014900",
@@ -33517,7 +33517,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 신관동",
   "name": "신관동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513015000",
@@ -33527,7 +33527,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 개사동",
   "name": "개사동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513015100",
@@ -33537,7 +33537,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 산북동",
   "name": "산북동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513015200",
@@ -33547,7 +33547,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 내초동",
   "name": "내초동",
-  "active": true
+  "active": false
  },
  {
   "code": "4513025000",
@@ -33557,7 +33557,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 옥구읍",
   "name": "옥구읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4513031000",
@@ -33567,7 +33567,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 옥산면",
   "name": "옥산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513032000",
@@ -33577,7 +33577,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 회현면",
   "name": "회현면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513033000",
@@ -33587,7 +33587,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 임피면",
   "name": "임피면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513034000",
@@ -33597,7 +33597,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 서수면",
   "name": "서수면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513035000",
@@ -33607,7 +33607,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 대야면",
   "name": "대야면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513036000",
@@ -33617,7 +33617,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 개정면",
   "name": "개정면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513037000",
@@ -33627,7 +33627,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 성산면",
   "name": "성산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513038000",
@@ -33637,7 +33637,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 나포면",
   "name": "나포면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513039000",
@@ -33647,7 +33647,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 옥도면",
   "name": "옥도면",
-  "active": true
+  "active": false
  },
  {
   "code": "4513040000",
@@ -33657,7 +33657,7 @@
   "guName": "군산시",
   "fullName": "전라북도 군산시 옥서면",
   "name": "옥서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010100",
@@ -33667,7 +33667,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 창인동1가",
   "name": "창인동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010200",
@@ -33677,7 +33677,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 창인동2가",
   "name": "창인동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010300",
@@ -33687,7 +33687,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 중앙동1가",
   "name": "중앙동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010400",
@@ -33697,7 +33697,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 중앙동2가",
   "name": "중앙동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010500",
@@ -33707,7 +33707,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 중앙동3가",
   "name": "중앙동3가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010600",
@@ -33717,7 +33717,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 평화동",
   "name": "평화동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010700",
@@ -33727,7 +33727,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 갈산동",
   "name": "갈산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010800",
@@ -33737,7 +33737,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 주현동",
   "name": "주현동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514010900",
@@ -33747,7 +33747,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 인화동1가",
   "name": "인화동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011000",
@@ -33757,7 +33757,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 인화동2가",
   "name": "인화동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011100",
@@ -33767,7 +33767,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 동산동",
   "name": "동산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011200",
@@ -33777,7 +33777,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 마동",
   "name": "마동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011300",
@@ -33787,7 +33787,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 남중동",
   "name": "남중동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011400",
@@ -33797,7 +33797,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 모현동1가",
   "name": "모현동1가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011500",
@@ -33807,7 +33807,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 모현동2가",
   "name": "모현동2가",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011600",
@@ -33817,7 +33817,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 송학동",
   "name": "송학동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011700",
@@ -33827,7 +33827,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 목천동",
   "name": "목천동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011800",
@@ -33837,7 +33837,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 만석동",
   "name": "만석동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514011900",
@@ -33847,7 +33847,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 현영동",
   "name": "현영동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012000",
@@ -33857,7 +33857,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 신용동",
   "name": "신용동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012100",
@@ -33867,7 +33867,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 신동",
   "name": "신동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012200",
@@ -33877,7 +33877,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 영등동",
   "name": "영등동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012300",
@@ -33887,7 +33887,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 어양동",
   "name": "어양동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012400",
@@ -33897,7 +33897,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 신흥동",
   "name": "신흥동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012500",
@@ -33907,7 +33907,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 금강동",
   "name": "금강동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012600",
@@ -33917,7 +33917,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 석탄동",
   "name": "석탄동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012700",
@@ -33927,7 +33927,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 팔봉동",
   "name": "팔봉동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012800",
@@ -33937,7 +33937,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 덕기동",
   "name": "덕기동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514012900",
@@ -33947,7 +33947,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 석왕동",
   "name": "석왕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013000",
@@ -33957,7 +33957,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 은기동",
   "name": "은기동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013100",
@@ -33967,7 +33967,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 정족동",
   "name": "정족동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013200",
@@ -33977,7 +33977,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 임상동",
   "name": "임상동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013300",
@@ -33987,7 +33987,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 월성동",
   "name": "월성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013400",
@@ -33997,7 +33997,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 부송동",
   "name": "부송동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013500",
@@ -34007,7 +34007,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 용제동",
   "name": "용제동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514013600",
@@ -34017,7 +34017,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 석암동",
   "name": "석암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4514025000",
@@ -34027,7 +34027,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 함열읍",
   "name": "함열읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4514031000",
@@ -34037,7 +34037,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 오산면",
   "name": "오산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514032000",
@@ -34047,7 +34047,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 황등면",
   "name": "황등면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514033000",
@@ -34057,7 +34057,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 함라면",
   "name": "함라면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514034000",
@@ -34067,7 +34067,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 웅포면",
   "name": "웅포면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514035000",
@@ -34077,7 +34077,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 성당면",
   "name": "성당면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514036000",
@@ -34087,7 +34087,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 용안면",
   "name": "용안면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514037000",
@@ -34097,7 +34097,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 낭산면",
   "name": "낭산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514038000",
@@ -34107,7 +34107,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 망성면",
   "name": "망성면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514039000",
@@ -34117,7 +34117,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 여산면",
   "name": "여산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514040000",
@@ -34127,7 +34127,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 금마면",
   "name": "금마면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514041000",
@@ -34137,7 +34137,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 왕궁면",
   "name": "왕궁면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514042000",
@@ -34147,7 +34147,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 춘포면",
   "name": "춘포면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514043000",
@@ -34157,7 +34157,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 삼기면",
   "name": "삼기면",
-  "active": true
+  "active": false
  },
  {
   "code": "4514044000",
@@ -34167,7 +34167,7 @@
   "guName": "익산시",
   "fullName": "전라북도 익산시 용동면",
   "name": "용동면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010100",
@@ -34177,7 +34177,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 수성동",
   "name": "수성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010200",
@@ -34187,7 +34187,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 장명동",
   "name": "장명동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010300",
@@ -34197,7 +34197,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 상동",
   "name": "상동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010400",
@@ -34207,7 +34207,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 시기동",
   "name": "시기동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010500",
@@ -34217,7 +34217,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 연지동",
   "name": "연지동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010600",
@@ -34227,7 +34227,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 농소동",
   "name": "농소동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010700",
@@ -34237,7 +34237,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 하모동",
   "name": "하모동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010800",
@@ -34247,7 +34247,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 상평동",
   "name": "상평동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518010900",
@@ -34257,7 +34257,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 과교동",
   "name": "과교동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011000",
@@ -34267,7 +34267,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 삼산동",
   "name": "삼산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011100",
@@ -34277,7 +34277,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 진산동",
   "name": "진산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011200",
@@ -34287,7 +34287,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 금붕동",
   "name": "금붕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011300",
@@ -34297,7 +34297,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 송산동",
   "name": "송산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011400",
@@ -34307,7 +34307,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 신월동",
   "name": "신월동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011500",
@@ -34317,7 +34317,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 용산동",
   "name": "용산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011600",
@@ -34327,7 +34327,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 교암동",
   "name": "교암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011700",
@@ -34337,7 +34337,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 부전동",
   "name": "부전동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011800",
@@ -34347,7 +34347,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 쌍암동",
   "name": "쌍암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518011900",
@@ -34357,7 +34357,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 내장동",
   "name": "내장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012000",
@@ -34367,7 +34367,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 영파동",
   "name": "영파동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012100",
@@ -34377,7 +34377,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 하북동",
   "name": "하북동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012200",
@@ -34387,7 +34387,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 구룡동",
   "name": "구룡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012300",
@@ -34397,7 +34397,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 흑암동",
   "name": "흑암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012400",
@@ -34407,7 +34407,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 용계동",
   "name": "용계동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012500",
@@ -34417,7 +34417,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 공평동",
   "name": "공평동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012600",
@@ -34427,7 +34427,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 망제동",
   "name": "망제동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518012700",
@@ -34437,7 +34437,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 신정동",
   "name": "신정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4518025000",
@@ -34447,7 +34447,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 신태인읍",
   "name": "신태인읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4518031000",
@@ -34457,7 +34457,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 북면",
   "name": "북면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518032000",
@@ -34467,7 +34467,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 입암면",
   "name": "입암면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518033000",
@@ -34477,7 +34477,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 소성면",
   "name": "소성면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518034000",
@@ -34487,7 +34487,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 고부면",
   "name": "고부면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518035000",
@@ -34497,7 +34497,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 영원면",
   "name": "영원면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518036000",
@@ -34507,7 +34507,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 덕천면",
   "name": "덕천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518037000",
@@ -34517,7 +34517,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 이평면",
   "name": "이평면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518038000",
@@ -34527,7 +34527,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 정우면",
   "name": "정우면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518039000",
@@ -34537,7 +34537,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 태인면",
   "name": "태인면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518040000",
@@ -34547,7 +34547,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 감곡면",
   "name": "감곡면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518041000",
@@ -34557,7 +34557,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 옹동면",
   "name": "옹동면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518042000",
@@ -34567,7 +34567,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 칠보면",
   "name": "칠보면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518043000",
@@ -34577,7 +34577,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 산내면",
   "name": "산내면",
-  "active": true
+  "active": false
  },
  {
   "code": "4518044000",
@@ -34587,7 +34587,7 @@
   "guName": "정읍시",
   "fullName": "전라북도 정읍시 산외면",
   "name": "산외면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010100",
@@ -34597,7 +34597,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 동충동",
   "name": "동충동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010200",
@@ -34607,7 +34607,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 하정동",
   "name": "하정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010300",
@@ -34617,7 +34617,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 죽항동",
   "name": "죽항동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010400",
@@ -34627,7 +34627,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 쌍교동",
   "name": "쌍교동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010500",
@@ -34637,7 +34637,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 천거동",
   "name": "천거동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010600",
@@ -34647,7 +34647,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 금동",
   "name": "금동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010700",
@@ -34657,7 +34657,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 조산동",
   "name": "조산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010800",
@@ -34667,7 +34667,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 왕정동",
   "name": "왕정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519010900",
@@ -34677,7 +34677,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 신정동",
   "name": "신정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011000",
@@ -34687,7 +34687,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 화정동",
   "name": "화정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011100",
@@ -34697,7 +34697,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 향교동",
   "name": "향교동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011200",
@@ -34707,7 +34707,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 용정동",
   "name": "용정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011300",
@@ -34717,7 +34717,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 광치동",
   "name": "광치동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011400",
@@ -34727,7 +34727,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 내척동",
   "name": "내척동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011500",
@@ -34737,7 +34737,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 산곡동",
   "name": "산곡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011600",
@@ -34747,7 +34747,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 도통동",
   "name": "도통동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011700",
@@ -34757,7 +34757,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 월락동",
   "name": "월락동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011800",
@@ -34767,7 +34767,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 고죽동",
   "name": "고죽동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519011900",
@@ -34777,7 +34777,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 식정동",
   "name": "식정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519012000",
@@ -34787,7 +34787,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 갈치동",
   "name": "갈치동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519012100",
@@ -34797,7 +34797,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 노암동",
   "name": "노암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519012200",
@@ -34807,7 +34807,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 어현동",
   "name": "어현동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519012300",
@@ -34817,7 +34817,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 신촌동",
   "name": "신촌동",
-  "active": true
+  "active": false
  },
  {
   "code": "4519025000",
@@ -34827,7 +34827,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 운봉읍",
   "name": "운봉읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4519031000",
@@ -34837,7 +34837,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 주천면",
   "name": "주천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519032000",
@@ -34847,7 +34847,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 수지면",
   "name": "수지면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519033000",
@@ -34857,7 +34857,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 송동면",
   "name": "송동면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519034000",
@@ -34867,7 +34867,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 주생면",
   "name": "주생면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519035000",
@@ -34877,7 +34877,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 금지면",
   "name": "금지면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519036000",
@@ -34887,7 +34887,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 대강면",
   "name": "대강면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519037000",
@@ -34897,7 +34897,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 대산면",
   "name": "대산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519038000",
@@ -34907,7 +34907,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 사매면",
   "name": "사매면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519039000",
@@ -34917,7 +34917,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 덕과면",
   "name": "덕과면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519040000",
@@ -34927,7 +34927,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 보절면",
   "name": "보절면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519041000",
@@ -34937,7 +34937,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 산동면",
   "name": "산동면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519042000",
@@ -34947,7 +34947,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 이백면",
   "name": "이백면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519045000",
@@ -34957,7 +34957,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 아영면",
   "name": "아영면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519046000",
@@ -34967,7 +34967,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 산내면",
   "name": "산내면",
-  "active": true
+  "active": false
  },
  {
   "code": "4519047000",
@@ -34977,7 +34977,7 @@
   "guName": "남원시",
   "fullName": "전라북도 남원시 인월면",
   "name": "인월면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010100",
@@ -34987,7 +34987,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 요촌동",
   "name": "요촌동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010200",
@@ -34997,7 +34997,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 신풍동",
   "name": "신풍동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010300",
@@ -35007,7 +35007,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 용동",
   "name": "용동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010400",
@@ -35017,7 +35017,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 검산동",
   "name": "검산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010500",
@@ -35027,7 +35027,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 순동",
   "name": "순동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010600",
@@ -35037,7 +35037,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 백학동",
   "name": "백학동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010700",
@@ -35047,7 +35047,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 서암동",
   "name": "서암동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010800",
@@ -35057,7 +35057,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 신곡동",
   "name": "신곡동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521010900",
@@ -35067,7 +35067,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 교동",
   "name": "교동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011000",
@@ -35077,7 +35077,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 옥산동",
   "name": "옥산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011100",
@@ -35087,7 +35087,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 갈공동",
   "name": "갈공동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011200",
@@ -35097,7 +35097,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 하동",
   "name": "하동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011300",
@@ -35107,7 +35107,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 흥사동",
   "name": "흥사동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011400",
@@ -35117,7 +35117,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 상동동",
   "name": "상동동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011500",
@@ -35127,7 +35127,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 월성동",
   "name": "월성동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011600",
@@ -35137,7 +35137,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 황산동",
   "name": "황산동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011700",
@@ -35147,7 +35147,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 난봉동",
   "name": "난봉동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011800",
@@ -35157,7 +35157,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 오정동",
   "name": "오정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521011900",
@@ -35167,7 +35167,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 복죽동",
   "name": "복죽동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012000",
@@ -35177,7 +35177,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 입석동",
   "name": "입석동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012100",
@@ -35187,7 +35187,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 장화동",
   "name": "장화동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012200",
@@ -35197,7 +35197,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 신덕동",
   "name": "신덕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012300",
@@ -35207,7 +35207,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 월봉동",
   "name": "월봉동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012400",
@@ -35217,7 +35217,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 신월동",
   "name": "신월동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012500",
@@ -35227,7 +35227,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 연정동",
   "name": "연정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012600",
@@ -35237,7 +35237,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 명덕동",
   "name": "명덕동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012700",
@@ -35247,7 +35247,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 제월동",
   "name": "제월동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012800",
@@ -35257,7 +35257,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 도장동",
   "name": "도장동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521012900",
@@ -35267,7 +35267,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 서정동",
   "name": "서정동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521013000",
@@ -35277,7 +35277,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 양전동",
   "name": "양전동",
-  "active": true
+  "active": false
  },
  {
   "code": "4521025000",
@@ -35287,7 +35287,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 만경읍",
   "name": "만경읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4521032000",
@@ -35297,7 +35297,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 죽산면",
   "name": "죽산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521033000",
@@ -35307,7 +35307,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 백산면",
   "name": "백산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521034000",
@@ -35317,7 +35317,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 용지면",
   "name": "용지면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521035000",
@@ -35327,7 +35327,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 백구면",
   "name": "백구면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521036000",
@@ -35337,7 +35337,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 부량면",
   "name": "부량면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521038000",
@@ -35347,7 +35347,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 공덕면",
   "name": "공덕면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521039000",
@@ -35357,7 +35357,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 청하면",
   "name": "청하면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521040000",
@@ -35367,7 +35367,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 성덕면",
   "name": "성덕면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521041000",
@@ -35377,7 +35377,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 진봉면",
   "name": "진봉면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521042000",
@@ -35387,7 +35387,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 금구면",
   "name": "금구면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521043000",
@@ -35397,7 +35397,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 봉남면",
   "name": "봉남면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521044000",
@@ -35407,7 +35407,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 황산면",
   "name": "황산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521045000",
@@ -35417,7 +35417,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 금산면",
   "name": "금산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4521046000",
@@ -35427,7 +35427,7 @@
   "guName": "김제시",
   "fullName": "전라북도 김제시 광활면",
   "name": "광활면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571025000",
@@ -35437,7 +35437,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 삼례읍",
   "name": "삼례읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4571025300",
@@ -35447,7 +35447,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 봉동읍",
   "name": "봉동읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4571025600",
@@ -35457,7 +35457,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 용진읍",
   "name": "용진읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4571032000",
@@ -35467,7 +35467,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 상관면",
   "name": "상관면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571033000",
@@ -35477,7 +35477,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 이서면",
   "name": "이서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571034000",
@@ -35487,7 +35487,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 소양면",
   "name": "소양면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571035000",
@@ -35497,7 +35497,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 구이면",
   "name": "구이면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571036000",
@@ -35507,7 +35507,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 고산면",
   "name": "고산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571037000",
@@ -35517,7 +35517,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 비봉면",
   "name": "비봉면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571038000",
@@ -35527,7 +35527,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 운주면",
   "name": "운주면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571039000",
@@ -35537,7 +35537,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 화산면",
   "name": "화산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571040000",
@@ -35547,7 +35547,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 동상면",
   "name": "동상면",
-  "active": true
+  "active": false
  },
  {
   "code": "4571041000",
@@ -35557,7 +35557,7 @@
   "guName": "완주군",
   "fullName": "전라북도 완주군 경천면",
   "name": "경천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572025000",
@@ -35567,7 +35567,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 진안읍",
   "name": "진안읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4572031000",
@@ -35577,7 +35577,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 용담면",
   "name": "용담면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572032000",
@@ -35587,7 +35587,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 안천면",
   "name": "안천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572033000",
@@ -35597,7 +35597,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 동향면",
   "name": "동향면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572034000",
@@ -35607,7 +35607,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 상전면",
   "name": "상전면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572035000",
@@ -35617,7 +35617,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 백운면",
   "name": "백운면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572036000",
@@ -35627,7 +35627,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 성수면",
   "name": "성수면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572037000",
@@ -35637,7 +35637,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 마령면",
   "name": "마령면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572038000",
@@ -35647,7 +35647,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 부귀면",
   "name": "부귀면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572039000",
@@ -35657,7 +35657,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 정천면",
   "name": "정천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4572040000",
@@ -35667,7 +35667,7 @@
   "guName": "진안군",
   "fullName": "전라북도 진안군 주천면",
   "name": "주천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4573025000",
@@ -35677,7 +35677,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 무주읍",
   "name": "무주읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4573031000",
@@ -35687,7 +35687,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 무풍면",
   "name": "무풍면",
-  "active": true
+  "active": false
  },
  {
   "code": "4573032000",
@@ -35697,7 +35697,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 설천면",
   "name": "설천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4573033000",
@@ -35707,7 +35707,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 적상면",
   "name": "적상면",
-  "active": true
+  "active": false
  },
  {
   "code": "4573034000",
@@ -35717,7 +35717,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 안성면",
   "name": "안성면",
-  "active": true
+  "active": false
  },
  {
   "code": "4573035000",
@@ -35727,7 +35727,7 @@
   "guName": "무주군",
   "fullName": "전라북도 무주군 부남면",
   "name": "부남면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574025000",
@@ -35737,7 +35737,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 장수읍",
   "name": "장수읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4574031000",
@@ -35747,7 +35747,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 산서면",
   "name": "산서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574032000",
@@ -35757,7 +35757,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 번암면",
   "name": "번암면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574033500",
@@ -35767,7 +35767,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 장계면",
   "name": "장계면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574034000",
@@ -35777,7 +35777,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 천천면",
   "name": "천천면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574035000",
@@ -35787,7 +35787,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 계남면",
   "name": "계남면",
-  "active": true
+  "active": false
  },
  {
   "code": "4574036000",
@@ -35797,7 +35797,7 @@
   "guName": "장수군",
   "fullName": "전라북도 장수군 계북면",
   "name": "계북면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575025000",
@@ -35807,7 +35807,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 임실읍",
   "name": "임실읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4575031000",
@@ -35817,7 +35817,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 청웅면",
   "name": "청웅면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575032000",
@@ -35827,7 +35827,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 운암면",
   "name": "운암면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575033000",
@@ -35837,7 +35837,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 신평면",
   "name": "신평면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575034000",
@@ -35847,7 +35847,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 성수면",
   "name": "성수면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575035500",
@@ -35857,7 +35857,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 오수면",
   "name": "오수면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575036000",
@@ -35867,7 +35867,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 신덕면",
   "name": "신덕면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575037000",
@@ -35877,7 +35877,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 삼계면",
   "name": "삼계면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575038000",
@@ -35887,7 +35887,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 관촌면",
   "name": "관촌면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575039000",
@@ -35897,7 +35897,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 강진면",
   "name": "강진면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575040000",
@@ -35907,7 +35907,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 덕치면",
   "name": "덕치면",
-  "active": true
+  "active": false
  },
  {
   "code": "4575041000",
@@ -35917,7 +35917,7 @@
   "guName": "임실군",
   "fullName": "전라북도 임실군 지사면",
   "name": "지사면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577025000",
@@ -35927,7 +35927,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 순창읍",
   "name": "순창읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4577031000",
@@ -35937,7 +35937,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 인계면",
   "name": "인계면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577032000",
@@ -35947,7 +35947,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 동계면",
   "name": "동계면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577033000",
@@ -35957,7 +35957,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 풍산면",
   "name": "풍산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577034000",
@@ -35967,7 +35967,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 금과면",
   "name": "금과면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577035000",
@@ -35977,7 +35977,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 팔덕면",
   "name": "팔덕면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577036000",
@@ -35987,7 +35987,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 쌍치면",
   "name": "쌍치면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577037000",
@@ -35997,7 +35997,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 복흥면",
   "name": "복흥면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577038000",
@@ -36007,7 +36007,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 적성면",
   "name": "적성면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577039000",
@@ -36017,7 +36017,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 유등면",
   "name": "유등면",
-  "active": true
+  "active": false
  },
  {
   "code": "4577040000",
@@ -36027,7 +36027,7 @@
   "guName": "순창군",
   "fullName": "전라북도 순창군 구림면",
   "name": "구림면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579025000",
@@ -36037,7 +36037,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 고창읍",
   "name": "고창읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4579031000",
@@ -36047,7 +36047,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 고수면",
   "name": "고수면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579032000",
@@ -36057,7 +36057,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 아산면",
   "name": "아산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579033000",
@@ -36067,7 +36067,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 무장면",
   "name": "무장면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579034000",
@@ -36077,7 +36077,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 공음면",
   "name": "공음면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579035000",
@@ -36087,7 +36087,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 상하면",
   "name": "상하면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579036000",
@@ -36097,7 +36097,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 해리면",
   "name": "해리면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579037000",
@@ -36107,7 +36107,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 성송면",
   "name": "성송면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579038000",
@@ -36117,7 +36117,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 대산면",
   "name": "대산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579039000",
@@ -36127,7 +36127,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 심원면",
   "name": "심원면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579040000",
@@ -36137,7 +36137,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 흥덕면",
   "name": "흥덕면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579041000",
@@ -36147,7 +36147,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 성내면",
   "name": "성내면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579042000",
@@ -36157,7 +36157,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 신림면",
   "name": "신림면",
-  "active": true
+  "active": false
  },
  {
   "code": "4579043000",
@@ -36167,7 +36167,7 @@
   "guName": "고창군",
   "fullName": "전라북도 고창군 부안면",
   "name": "부안면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580025000",
@@ -36177,7 +36177,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 부안읍",
   "name": "부안읍",
-  "active": true
+  "active": false
  },
  {
   "code": "4580031000",
@@ -36187,7 +36187,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 주산면",
   "name": "주산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580032000",
@@ -36197,7 +36197,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 동진면",
   "name": "동진면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580033000",
@@ -36207,7 +36207,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 행안면",
   "name": "행안면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580034000",
@@ -36217,7 +36217,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 계화면",
   "name": "계화면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580035000",
@@ -36227,7 +36227,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 보안면",
   "name": "보안면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580036000",
@@ -36237,7 +36237,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 변산면",
   "name": "변산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580037000",
@@ -36247,7 +36247,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 진서면",
   "name": "진서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580038000",
@@ -36257,7 +36257,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 백산면",
   "name": "백산면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580039000",
@@ -36267,7 +36267,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 상서면",
   "name": "상서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580040000",
@@ -36277,7 +36277,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 하서면",
   "name": "하서면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580041000",
@@ -36287,7 +36287,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 줄포면",
   "name": "줄포면",
-  "active": true
+  "active": false
  },
  {
   "code": "4580042000",
@@ -36297,7 +36297,7 @@
   "guName": "부안군",
   "fullName": "전라북도 부안군 위도면",
   "name": "위도면",
-  "active": true
+  "active": false
  },
  {
   "code": "4611010100",
@@ -56517,6 +56517,3296 @@
   "guName": "양양군",
   "fullName": "강원특별자치도 양양군 강현면",
   "name": "강현면",
+  "active": true
+ },
+ {
+  "code": "5211100000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5211000000",
+  "guName": "전주시",
+  "fullName": "전북특별자치도 전주시 완산구",
+  "name": "완산구",
+  "active": true
+ },
+ {
+  "code": "5211300000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5211000000",
+  "guName": "전주시",
+  "fullName": "전북특별자치도 전주시 덕진구",
+  "name": "덕진구",
+  "active": true
+ },
+ {
+  "code": "5213010100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 해망동",
+  "name": "해망동",
+  "active": true
+ },
+ {
+  "code": "5213010200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 신흥동",
+  "name": "신흥동",
+  "active": true
+ },
+ {
+  "code": "5213010300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 금동",
+  "name": "금동",
+  "active": true
+ },
+ {
+  "code": "5213010400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 월명동",
+  "name": "월명동",
+  "active": true
+ },
+ {
+  "code": "5213010500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 신창동",
+  "name": "신창동",
+  "active": true
+ },
+ {
+  "code": "5213010600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 오룡동",
+  "name": "오룡동",
+  "active": true
+ },
+ {
+  "code": "5213010700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 금광동",
+  "name": "금광동",
+  "active": true
+ },
+ {
+  "code": "5213010800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 신풍동",
+  "name": "신풍동",
+  "active": true
+ },
+ {
+  "code": "5213010900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 송풍동",
+  "name": "송풍동",
+  "active": true
+ },
+ {
+  "code": "5213011000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 문화동",
+  "name": "문화동",
+  "active": true
+ },
+ {
+  "code": "5213011100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 삼학동",
+  "name": "삼학동",
+  "active": true
+ },
+ {
+  "code": "5213011200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 선양동",
+  "name": "선양동",
+  "active": true
+ },
+ {
+  "code": "5213011300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 둔율동",
+  "name": "둔율동",
+  "active": true
+ },
+ {
+  "code": "5213011400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 창성동",
+  "name": "창성동",
+  "active": true
+ },
+ {
+  "code": "5213011500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 명산동",
+  "name": "명산동",
+  "active": true
+ },
+ {
+  "code": "5213011600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 송창동",
+  "name": "송창동",
+  "active": true
+ },
+ {
+  "code": "5213011700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 개복동",
+  "name": "개복동",
+  "active": true
+ },
+ {
+  "code": "5213011800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 중앙로1가",
+  "name": "중앙로1가",
+  "active": true
+ },
+ {
+  "code": "5213011900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 영화동",
+  "name": "영화동",
+  "active": true
+ },
+ {
+  "code": "5213012000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 장미동",
+  "name": "장미동",
+  "active": true
+ },
+ {
+  "code": "5213012100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 중앙로2가",
+  "name": "중앙로2가",
+  "active": true
+ },
+ {
+  "code": "5213012200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 영동",
+  "name": "영동",
+  "active": true
+ },
+ {
+  "code": "5213012300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 신영동",
+  "name": "신영동",
+  "active": true
+ },
+ {
+  "code": "5213012400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 죽성동",
+  "name": "죽성동",
+  "active": true
+ },
+ {
+  "code": "5213012500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 평화동",
+  "name": "평화동",
+  "active": true
+ },
+ {
+  "code": "5213012600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 중앙로3가",
+  "name": "중앙로3가",
+  "active": true
+ },
+ {
+  "code": "5213012700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 대명동",
+  "name": "대명동",
+  "active": true
+ },
+ {
+  "code": "5213012800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 장재동",
+  "name": "장재동",
+  "active": true
+ },
+ {
+  "code": "5213012900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 미원동",
+  "name": "미원동",
+  "active": true
+ },
+ {
+  "code": "5213013000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 중동",
+  "name": "중동",
+  "active": true
+ },
+ {
+  "code": "5213013100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 금암동",
+  "name": "금암동",
+  "active": true
+ },
+ {
+  "code": "5213013200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 동흥남동",
+  "name": "동흥남동",
+  "active": true
+ },
+ {
+  "code": "5213013300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 서흥남동",
+  "name": "서흥남동",
+  "active": true
+ },
+ {
+  "code": "5213013400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 조촌동",
+  "name": "조촌동",
+  "active": true
+ },
+ {
+  "code": "5213013500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 경장동",
+  "name": "경장동",
+  "active": true
+ },
+ {
+  "code": "5213013600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 경암동",
+  "name": "경암동",
+  "active": true
+ },
+ {
+  "code": "5213013700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 구암동",
+  "name": "구암동",
+  "active": true
+ },
+ {
+  "code": "5213013800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 내흥동",
+  "name": "내흥동",
+  "active": true
+ },
+ {
+  "code": "5213013900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 개정동",
+  "name": "개정동",
+  "active": true
+ },
+ {
+  "code": "5213014000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 사정동",
+  "name": "사정동",
+  "active": true
+ },
+ {
+  "code": "5213014100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 수송동",
+  "name": "수송동",
+  "active": true
+ },
+ {
+  "code": "5213014200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 미장동",
+  "name": "미장동",
+  "active": true
+ },
+ {
+  "code": "5213014300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 지곡동",
+  "name": "지곡동",
+  "active": true
+ },
+ {
+  "code": "5213014400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 나운동",
+  "name": "나운동",
+  "active": true
+ },
+ {
+  "code": "5213014500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 미룡동",
+  "name": "미룡동",
+  "active": true
+ },
+ {
+  "code": "5213014600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 소룡동",
+  "name": "소룡동",
+  "active": true
+ },
+ {
+  "code": "5213014700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 오식도동",
+  "name": "오식도동",
+  "active": true
+ },
+ {
+  "code": "5213014800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 비응도동",
+  "name": "비응도동",
+  "active": true
+ },
+ {
+  "code": "5213014900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 신관동",
+  "name": "신관동",
+  "active": true
+ },
+ {
+  "code": "5213015000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 개사동",
+  "name": "개사동",
+  "active": true
+ },
+ {
+  "code": "5213015100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 산북동",
+  "name": "산북동",
+  "active": true
+ },
+ {
+  "code": "5213015200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 내초동",
+  "name": "내초동",
+  "active": true
+ },
+ {
+  "code": "5213025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 옥구읍",
+  "name": "옥구읍",
+  "active": true
+ },
+ {
+  "code": "5213031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 옥산면",
+  "name": "옥산면",
+  "active": true
+ },
+ {
+  "code": "5213032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 회현면",
+  "name": "회현면",
+  "active": true
+ },
+ {
+  "code": "5213033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 임피면",
+  "name": "임피면",
+  "active": true
+ },
+ {
+  "code": "5213034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 서수면",
+  "name": "서수면",
+  "active": true
+ },
+ {
+  "code": "5213035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 대야면",
+  "name": "대야면",
+  "active": true
+ },
+ {
+  "code": "5213036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 개정면",
+  "name": "개정면",
+  "active": true
+ },
+ {
+  "code": "5213037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 성산면",
+  "name": "성산면",
+  "active": true
+ },
+ {
+  "code": "5213038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 나포면",
+  "name": "나포면",
+  "active": true
+ },
+ {
+  "code": "5213039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 옥도면",
+  "name": "옥도면",
+  "active": true
+ },
+ {
+  "code": "5213040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5213000000",
+  "guName": "군산시",
+  "fullName": "전북특별자치도 군산시 옥서면",
+  "name": "옥서면",
+  "active": true
+ },
+ {
+  "code": "5214010100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 창인동1가",
+  "name": "창인동1가",
+  "active": true
+ },
+ {
+  "code": "5214010200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 창인동2가",
+  "name": "창인동2가",
+  "active": true
+ },
+ {
+  "code": "5214010300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 중앙동1가",
+  "name": "중앙동1가",
+  "active": true
+ },
+ {
+  "code": "5214010400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 중앙동2가",
+  "name": "중앙동2가",
+  "active": true
+ },
+ {
+  "code": "5214010500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 중앙동3가",
+  "name": "중앙동3가",
+  "active": true
+ },
+ {
+  "code": "5214010600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 평화동",
+  "name": "평화동",
+  "active": true
+ },
+ {
+  "code": "5214010700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 갈산동",
+  "name": "갈산동",
+  "active": true
+ },
+ {
+  "code": "5214010800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 주현동",
+  "name": "주현동",
+  "active": true
+ },
+ {
+  "code": "5214010900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 인화동1가",
+  "name": "인화동1가",
+  "active": true
+ },
+ {
+  "code": "5214011000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 인화동2가",
+  "name": "인화동2가",
+  "active": true
+ },
+ {
+  "code": "5214011100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 동산동",
+  "name": "동산동",
+  "active": true
+ },
+ {
+  "code": "5214011200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 마동",
+  "name": "마동",
+  "active": true
+ },
+ {
+  "code": "5214011300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 남중동",
+  "name": "남중동",
+  "active": true
+ },
+ {
+  "code": "5214011400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 모현동1가",
+  "name": "모현동1가",
+  "active": true
+ },
+ {
+  "code": "5214011500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 모현동2가",
+  "name": "모현동2가",
+  "active": true
+ },
+ {
+  "code": "5214011600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 송학동",
+  "name": "송학동",
+  "active": true
+ },
+ {
+  "code": "5214011700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 목천동",
+  "name": "목천동",
+  "active": true
+ },
+ {
+  "code": "5214011800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 만석동",
+  "name": "만석동",
+  "active": true
+ },
+ {
+  "code": "5214011900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 현영동",
+  "name": "현영동",
+  "active": true
+ },
+ {
+  "code": "5214012000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 신용동",
+  "name": "신용동",
+  "active": true
+ },
+ {
+  "code": "5214012100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 신동",
+  "name": "신동",
+  "active": true
+ },
+ {
+  "code": "5214012200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 영등동",
+  "name": "영등동",
+  "active": true
+ },
+ {
+  "code": "5214012300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 어양동",
+  "name": "어양동",
+  "active": true
+ },
+ {
+  "code": "5214012400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 신흥동",
+  "name": "신흥동",
+  "active": true
+ },
+ {
+  "code": "5214012500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 금강동",
+  "name": "금강동",
+  "active": true
+ },
+ {
+  "code": "5214012600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 석탄동",
+  "name": "석탄동",
+  "active": true
+ },
+ {
+  "code": "5214012700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 팔봉동",
+  "name": "팔봉동",
+  "active": true
+ },
+ {
+  "code": "5214012800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 덕기동",
+  "name": "덕기동",
+  "active": true
+ },
+ {
+  "code": "5214012900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 석왕동",
+  "name": "석왕동",
+  "active": true
+ },
+ {
+  "code": "5214013000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 은기동",
+  "name": "은기동",
+  "active": true
+ },
+ {
+  "code": "5214013100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 정족동",
+  "name": "정족동",
+  "active": true
+ },
+ {
+  "code": "5214013200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 임상동",
+  "name": "임상동",
+  "active": true
+ },
+ {
+  "code": "5214013300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 월성동",
+  "name": "월성동",
+  "active": true
+ },
+ {
+  "code": "5214013400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 부송동",
+  "name": "부송동",
+  "active": true
+ },
+ {
+  "code": "5214013500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 용제동",
+  "name": "용제동",
+  "active": true
+ },
+ {
+  "code": "5214013600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 석암동",
+  "name": "석암동",
+  "active": true
+ },
+ {
+  "code": "5214025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 함열읍",
+  "name": "함열읍",
+  "active": true
+ },
+ {
+  "code": "5214031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 오산면",
+  "name": "오산면",
+  "active": true
+ },
+ {
+  "code": "5214032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 황등면",
+  "name": "황등면",
+  "active": true
+ },
+ {
+  "code": "5214033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 함라면",
+  "name": "함라면",
+  "active": true
+ },
+ {
+  "code": "5214034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 웅포면",
+  "name": "웅포면",
+  "active": true
+ },
+ {
+  "code": "5214035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 성당면",
+  "name": "성당면",
+  "active": true
+ },
+ {
+  "code": "5214036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 용안면",
+  "name": "용안면",
+  "active": true
+ },
+ {
+  "code": "5214037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 낭산면",
+  "name": "낭산면",
+  "active": true
+ },
+ {
+  "code": "5214038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 망성면",
+  "name": "망성면",
+  "active": true
+ },
+ {
+  "code": "5214039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 여산면",
+  "name": "여산면",
+  "active": true
+ },
+ {
+  "code": "5214040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 금마면",
+  "name": "금마면",
+  "active": true
+ },
+ {
+  "code": "5214041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 왕궁면",
+  "name": "왕궁면",
+  "active": true
+ },
+ {
+  "code": "5214042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 춘포면",
+  "name": "춘포면",
+  "active": true
+ },
+ {
+  "code": "5214043000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 삼기면",
+  "name": "삼기면",
+  "active": true
+ },
+ {
+  "code": "5214044000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5214000000",
+  "guName": "익산시",
+  "fullName": "전북특별자치도 익산시 용동면",
+  "name": "용동면",
+  "active": true
+ },
+ {
+  "code": "5218010100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 수성동",
+  "name": "수성동",
+  "active": true
+ },
+ {
+  "code": "5218010200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 장명동",
+  "name": "장명동",
+  "active": true
+ },
+ {
+  "code": "5218010300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 상동",
+  "name": "상동",
+  "active": true
+ },
+ {
+  "code": "5218010400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 시기동",
+  "name": "시기동",
+  "active": true
+ },
+ {
+  "code": "5218010500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 연지동",
+  "name": "연지동",
+  "active": true
+ },
+ {
+  "code": "5218010600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 농소동",
+  "name": "농소동",
+  "active": true
+ },
+ {
+  "code": "5218010700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 하모동",
+  "name": "하모동",
+  "active": true
+ },
+ {
+  "code": "5218010800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 상평동",
+  "name": "상평동",
+  "active": true
+ },
+ {
+  "code": "5218010900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 과교동",
+  "name": "과교동",
+  "active": true
+ },
+ {
+  "code": "5218011000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 삼산동",
+  "name": "삼산동",
+  "active": true
+ },
+ {
+  "code": "5218011100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 진산동",
+  "name": "진산동",
+  "active": true
+ },
+ {
+  "code": "5218011200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 금붕동",
+  "name": "금붕동",
+  "active": true
+ },
+ {
+  "code": "5218011300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 송산동",
+  "name": "송산동",
+  "active": true
+ },
+ {
+  "code": "5218011400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 신월동",
+  "name": "신월동",
+  "active": true
+ },
+ {
+  "code": "5218011500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 용산동",
+  "name": "용산동",
+  "active": true
+ },
+ {
+  "code": "5218011600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 교암동",
+  "name": "교암동",
+  "active": true
+ },
+ {
+  "code": "5218011700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 부전동",
+  "name": "부전동",
+  "active": true
+ },
+ {
+  "code": "5218011800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 쌍암동",
+  "name": "쌍암동",
+  "active": true
+ },
+ {
+  "code": "5218011900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 내장동",
+  "name": "내장동",
+  "active": true
+ },
+ {
+  "code": "5218012000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 영파동",
+  "name": "영파동",
+  "active": true
+ },
+ {
+  "code": "5218012100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 하북동",
+  "name": "하북동",
+  "active": true
+ },
+ {
+  "code": "5218012200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 구룡동",
+  "name": "구룡동",
+  "active": true
+ },
+ {
+  "code": "5218012300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 흑암동",
+  "name": "흑암동",
+  "active": true
+ },
+ {
+  "code": "5218012400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 용계동",
+  "name": "용계동",
+  "active": true
+ },
+ {
+  "code": "5218012500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 공평동",
+  "name": "공평동",
+  "active": true
+ },
+ {
+  "code": "5218012600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 망제동",
+  "name": "망제동",
+  "active": true
+ },
+ {
+  "code": "5218012700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 신정동",
+  "name": "신정동",
+  "active": true
+ },
+ {
+  "code": "5218025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 신태인읍",
+  "name": "신태인읍",
+  "active": true
+ },
+ {
+  "code": "5218031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 북면",
+  "name": "북면",
+  "active": true
+ },
+ {
+  "code": "5218032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 입암면",
+  "name": "입암면",
+  "active": true
+ },
+ {
+  "code": "5218033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 소성면",
+  "name": "소성면",
+  "active": true
+ },
+ {
+  "code": "5218034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 고부면",
+  "name": "고부면",
+  "active": true
+ },
+ {
+  "code": "5218035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 영원면",
+  "name": "영원면",
+  "active": true
+ },
+ {
+  "code": "5218036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 덕천면",
+  "name": "덕천면",
+  "active": true
+ },
+ {
+  "code": "5218037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 이평면",
+  "name": "이평면",
+  "active": true
+ },
+ {
+  "code": "5218038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 정우면",
+  "name": "정우면",
+  "active": true
+ },
+ {
+  "code": "5218039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 태인면",
+  "name": "태인면",
+  "active": true
+ },
+ {
+  "code": "5218040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 감곡면",
+  "name": "감곡면",
+  "active": true
+ },
+ {
+  "code": "5218041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 옹동면",
+  "name": "옹동면",
+  "active": true
+ },
+ {
+  "code": "5218042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 칠보면",
+  "name": "칠보면",
+  "active": true
+ },
+ {
+  "code": "5218043000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 산내면",
+  "name": "산내면",
+  "active": true
+ },
+ {
+  "code": "5218044000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5218000000",
+  "guName": "정읍시",
+  "fullName": "전북특별자치도 정읍시 산외면",
+  "name": "산외면",
+  "active": true
+ },
+ {
+  "code": "5219010100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 동충동",
+  "name": "동충동",
+  "active": true
+ },
+ {
+  "code": "5219010200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 하정동",
+  "name": "하정동",
+  "active": true
+ },
+ {
+  "code": "5219010300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 죽항동",
+  "name": "죽항동",
+  "active": true
+ },
+ {
+  "code": "5219010400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 쌍교동",
+  "name": "쌍교동",
+  "active": true
+ },
+ {
+  "code": "5219010500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 천거동",
+  "name": "천거동",
+  "active": true
+ },
+ {
+  "code": "5219010600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 금동",
+  "name": "금동",
+  "active": true
+ },
+ {
+  "code": "5219010700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 조산동",
+  "name": "조산동",
+  "active": true
+ },
+ {
+  "code": "5219010800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 왕정동",
+  "name": "왕정동",
+  "active": true
+ },
+ {
+  "code": "5219010900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 신정동",
+  "name": "신정동",
+  "active": true
+ },
+ {
+  "code": "5219011000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 화정동",
+  "name": "화정동",
+  "active": true
+ },
+ {
+  "code": "5219011100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 향교동",
+  "name": "향교동",
+  "active": true
+ },
+ {
+  "code": "5219011200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 용정동",
+  "name": "용정동",
+  "active": true
+ },
+ {
+  "code": "5219011300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 광치동",
+  "name": "광치동",
+  "active": true
+ },
+ {
+  "code": "5219011400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 내척동",
+  "name": "내척동",
+  "active": true
+ },
+ {
+  "code": "5219011500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 산곡동",
+  "name": "산곡동",
+  "active": true
+ },
+ {
+  "code": "5219011600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 도통동",
+  "name": "도통동",
+  "active": true
+ },
+ {
+  "code": "5219011700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 월락동",
+  "name": "월락동",
+  "active": true
+ },
+ {
+  "code": "5219011800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 고죽동",
+  "name": "고죽동",
+  "active": true
+ },
+ {
+  "code": "5219011900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 식정동",
+  "name": "식정동",
+  "active": true
+ },
+ {
+  "code": "5219012000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 갈치동",
+  "name": "갈치동",
+  "active": true
+ },
+ {
+  "code": "5219012100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 노암동",
+  "name": "노암동",
+  "active": true
+ },
+ {
+  "code": "5219012200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 어현동",
+  "name": "어현동",
+  "active": true
+ },
+ {
+  "code": "5219012300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 신촌동",
+  "name": "신촌동",
+  "active": true
+ },
+ {
+  "code": "5219025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 운봉읍",
+  "name": "운봉읍",
+  "active": true
+ },
+ {
+  "code": "5219031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 주천면",
+  "name": "주천면",
+  "active": true
+ },
+ {
+  "code": "5219032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 수지면",
+  "name": "수지면",
+  "active": true
+ },
+ {
+  "code": "5219033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 송동면",
+  "name": "송동면",
+  "active": true
+ },
+ {
+  "code": "5219034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 주생면",
+  "name": "주생면",
+  "active": true
+ },
+ {
+  "code": "5219035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 금지면",
+  "name": "금지면",
+  "active": true
+ },
+ {
+  "code": "5219036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 대강면",
+  "name": "대강면",
+  "active": true
+ },
+ {
+  "code": "5219037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 대산면",
+  "name": "대산면",
+  "active": true
+ },
+ {
+  "code": "5219038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 사매면",
+  "name": "사매면",
+  "active": true
+ },
+ {
+  "code": "5219039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 덕과면",
+  "name": "덕과면",
+  "active": true
+ },
+ {
+  "code": "5219040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 보절면",
+  "name": "보절면",
+  "active": true
+ },
+ {
+  "code": "5219041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 산동면",
+  "name": "산동면",
+  "active": true
+ },
+ {
+  "code": "5219042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 이백면",
+  "name": "이백면",
+  "active": true
+ },
+ {
+  "code": "5219045000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 아영면",
+  "name": "아영면",
+  "active": true
+ },
+ {
+  "code": "5219046000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 산내면",
+  "name": "산내면",
+  "active": true
+ },
+ {
+  "code": "5219047000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5219000000",
+  "guName": "남원시",
+  "fullName": "전북특별자치도 남원시 인월면",
+  "name": "인월면",
+  "active": true
+ },
+ {
+  "code": "5221010100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 요촌동",
+  "name": "요촌동",
+  "active": true
+ },
+ {
+  "code": "5221010200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 신풍동",
+  "name": "신풍동",
+  "active": true
+ },
+ {
+  "code": "5221010300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 용동",
+  "name": "용동",
+  "active": true
+ },
+ {
+  "code": "5221010400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 검산동",
+  "name": "검산동",
+  "active": true
+ },
+ {
+  "code": "5221010500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 순동",
+  "name": "순동",
+  "active": true
+ },
+ {
+  "code": "5221010600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 백학동",
+  "name": "백학동",
+  "active": true
+ },
+ {
+  "code": "5221010700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 서암동",
+  "name": "서암동",
+  "active": true
+ },
+ {
+  "code": "5221010800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 신곡동",
+  "name": "신곡동",
+  "active": true
+ },
+ {
+  "code": "5221010900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 교동",
+  "name": "교동",
+  "active": true
+ },
+ {
+  "code": "5221011000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 옥산동",
+  "name": "옥산동",
+  "active": true
+ },
+ {
+  "code": "5221011100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 갈공동",
+  "name": "갈공동",
+  "active": true
+ },
+ {
+  "code": "5221011200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 하동",
+  "name": "하동",
+  "active": true
+ },
+ {
+  "code": "5221011300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 흥사동",
+  "name": "흥사동",
+  "active": true
+ },
+ {
+  "code": "5221011400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 상동동",
+  "name": "상동동",
+  "active": true
+ },
+ {
+  "code": "5221011500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 월성동",
+  "name": "월성동",
+  "active": true
+ },
+ {
+  "code": "5221011600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 황산동",
+  "name": "황산동",
+  "active": true
+ },
+ {
+  "code": "5221011700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 난봉동",
+  "name": "난봉동",
+  "active": true
+ },
+ {
+  "code": "5221011800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 오정동",
+  "name": "오정동",
+  "active": true
+ },
+ {
+  "code": "5221011900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 복죽동",
+  "name": "복죽동",
+  "active": true
+ },
+ {
+  "code": "5221012000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 입석동",
+  "name": "입석동",
+  "active": true
+ },
+ {
+  "code": "5221012100",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 장화동",
+  "name": "장화동",
+  "active": true
+ },
+ {
+  "code": "5221012200",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 신덕동",
+  "name": "신덕동",
+  "active": true
+ },
+ {
+  "code": "5221012300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 월봉동",
+  "name": "월봉동",
+  "active": true
+ },
+ {
+  "code": "5221012400",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 신월동",
+  "name": "신월동",
+  "active": true
+ },
+ {
+  "code": "5221012500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 연정동",
+  "name": "연정동",
+  "active": true
+ },
+ {
+  "code": "5221012600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 명덕동",
+  "name": "명덕동",
+  "active": true
+ },
+ {
+  "code": "5221012700",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 제월동",
+  "name": "제월동",
+  "active": true
+ },
+ {
+  "code": "5221012800",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 도장동",
+  "name": "도장동",
+  "active": true
+ },
+ {
+  "code": "5221012900",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 서정동",
+  "name": "서정동",
+  "active": true
+ },
+ {
+  "code": "5221013000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 양전동",
+  "name": "양전동",
+  "active": true
+ },
+ {
+  "code": "5221025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 만경읍",
+  "name": "만경읍",
+  "active": true
+ },
+ {
+  "code": "5221032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 죽산면",
+  "name": "죽산면",
+  "active": true
+ },
+ {
+  "code": "5221033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 백산면",
+  "name": "백산면",
+  "active": true
+ },
+ {
+  "code": "5221034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 용지면",
+  "name": "용지면",
+  "active": true
+ },
+ {
+  "code": "5221035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 백구면",
+  "name": "백구면",
+  "active": true
+ },
+ {
+  "code": "5221036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 부량면",
+  "name": "부량면",
+  "active": true
+ },
+ {
+  "code": "5221038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 공덕면",
+  "name": "공덕면",
+  "active": true
+ },
+ {
+  "code": "5221039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 청하면",
+  "name": "청하면",
+  "active": true
+ },
+ {
+  "code": "5221040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 성덕면",
+  "name": "성덕면",
+  "active": true
+ },
+ {
+  "code": "5221041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 진봉면",
+  "name": "진봉면",
+  "active": true
+ },
+ {
+  "code": "5221042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 금구면",
+  "name": "금구면",
+  "active": true
+ },
+ {
+  "code": "5221043000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 봉남면",
+  "name": "봉남면",
+  "active": true
+ },
+ {
+  "code": "5221044000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 황산면",
+  "name": "황산면",
+  "active": true
+ },
+ {
+  "code": "5221045000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 금산면",
+  "name": "금산면",
+  "active": true
+ },
+ {
+  "code": "5221046000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5221000000",
+  "guName": "김제시",
+  "fullName": "전북특별자치도 김제시 광활면",
+  "name": "광활면",
+  "active": true
+ },
+ {
+  "code": "5271025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 삼례읍",
+  "name": "삼례읍",
+  "active": true
+ },
+ {
+  "code": "5271025300",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 봉동읍",
+  "name": "봉동읍",
+  "active": true
+ },
+ {
+  "code": "5271025600",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 용진읍",
+  "name": "용진읍",
+  "active": true
+ },
+ {
+  "code": "5271032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 상관면",
+  "name": "상관면",
+  "active": true
+ },
+ {
+  "code": "5271033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 이서면",
+  "name": "이서면",
+  "active": true
+ },
+ {
+  "code": "5271034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 소양면",
+  "name": "소양면",
+  "active": true
+ },
+ {
+  "code": "5271035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 구이면",
+  "name": "구이면",
+  "active": true
+ },
+ {
+  "code": "5271036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 고산면",
+  "name": "고산면",
+  "active": true
+ },
+ {
+  "code": "5271037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 비봉면",
+  "name": "비봉면",
+  "active": true
+ },
+ {
+  "code": "5271038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 운주면",
+  "name": "운주면",
+  "active": true
+ },
+ {
+  "code": "5271039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 화산면",
+  "name": "화산면",
+  "active": true
+ },
+ {
+  "code": "5271040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 동상면",
+  "name": "동상면",
+  "active": true
+ },
+ {
+  "code": "5271041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5271000000",
+  "guName": "완주군",
+  "fullName": "전북특별자치도 완주군 경천면",
+  "name": "경천면",
+  "active": true
+ },
+ {
+  "code": "5272025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 진안읍",
+  "name": "진안읍",
+  "active": true
+ },
+ {
+  "code": "5272031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 용담면",
+  "name": "용담면",
+  "active": true
+ },
+ {
+  "code": "5272032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 안천면",
+  "name": "안천면",
+  "active": true
+ },
+ {
+  "code": "5272033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 동향면",
+  "name": "동향면",
+  "active": true
+ },
+ {
+  "code": "5272034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 상전면",
+  "name": "상전면",
+  "active": true
+ },
+ {
+  "code": "5272035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 백운면",
+  "name": "백운면",
+  "active": true
+ },
+ {
+  "code": "5272036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 성수면",
+  "name": "성수면",
+  "active": true
+ },
+ {
+  "code": "5272037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 마령면",
+  "name": "마령면",
+  "active": true
+ },
+ {
+  "code": "5272038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 부귀면",
+  "name": "부귀면",
+  "active": true
+ },
+ {
+  "code": "5272039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 정천면",
+  "name": "정천면",
+  "active": true
+ },
+ {
+  "code": "5272040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5272000000",
+  "guName": "진안군",
+  "fullName": "전북특별자치도 진안군 주천면",
+  "name": "주천면",
+  "active": true
+ },
+ {
+  "code": "5273025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 무주읍",
+  "name": "무주읍",
+  "active": true
+ },
+ {
+  "code": "5273031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 무풍면",
+  "name": "무풍면",
+  "active": true
+ },
+ {
+  "code": "5273032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 설천면",
+  "name": "설천면",
+  "active": true
+ },
+ {
+  "code": "5273033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 적상면",
+  "name": "적상면",
+  "active": true
+ },
+ {
+  "code": "5273034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 안성면",
+  "name": "안성면",
+  "active": true
+ },
+ {
+  "code": "5273035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5273000000",
+  "guName": "무주군",
+  "fullName": "전북특별자치도 무주군 부남면",
+  "name": "부남면",
+  "active": true
+ },
+ {
+  "code": "5274025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 장수읍",
+  "name": "장수읍",
+  "active": true
+ },
+ {
+  "code": "5274031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 산서면",
+  "name": "산서면",
+  "active": true
+ },
+ {
+  "code": "5274032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 번암면",
+  "name": "번암면",
+  "active": true
+ },
+ {
+  "code": "5274033500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 장계면",
+  "name": "장계면",
+  "active": true
+ },
+ {
+  "code": "5274034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 천천면",
+  "name": "천천면",
+  "active": true
+ },
+ {
+  "code": "5274035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 계남면",
+  "name": "계남면",
+  "active": true
+ },
+ {
+  "code": "5274036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5274000000",
+  "guName": "장수군",
+  "fullName": "전북특별자치도 장수군 계북면",
+  "name": "계북면",
+  "active": true
+ },
+ {
+  "code": "5275025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 임실읍",
+  "name": "임실읍",
+  "active": true
+ },
+ {
+  "code": "5275031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 청웅면",
+  "name": "청웅면",
+  "active": true
+ },
+ {
+  "code": "5275032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 운암면",
+  "name": "운암면",
+  "active": true
+ },
+ {
+  "code": "5275033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 신평면",
+  "name": "신평면",
+  "active": true
+ },
+ {
+  "code": "5275034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 성수면",
+  "name": "성수면",
+  "active": true
+ },
+ {
+  "code": "5275035500",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 오수면",
+  "name": "오수면",
+  "active": true
+ },
+ {
+  "code": "5275036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 신덕면",
+  "name": "신덕면",
+  "active": true
+ },
+ {
+  "code": "5275037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 삼계면",
+  "name": "삼계면",
+  "active": true
+ },
+ {
+  "code": "5275038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 관촌면",
+  "name": "관촌면",
+  "active": true
+ },
+ {
+  "code": "5275039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 강진면",
+  "name": "강진면",
+  "active": true
+ },
+ {
+  "code": "5275040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 덕치면",
+  "name": "덕치면",
+  "active": true
+ },
+ {
+  "code": "5275041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5275000000",
+  "guName": "임실군",
+  "fullName": "전북특별자치도 임실군 지사면",
+  "name": "지사면",
+  "active": true
+ },
+ {
+  "code": "5277025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 순창읍",
+  "name": "순창읍",
+  "active": true
+ },
+ {
+  "code": "5277031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 인계면",
+  "name": "인계면",
+  "active": true
+ },
+ {
+  "code": "5277032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 동계면",
+  "name": "동계면",
+  "active": true
+ },
+ {
+  "code": "5277033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 풍산면",
+  "name": "풍산면",
+  "active": true
+ },
+ {
+  "code": "5277034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 금과면",
+  "name": "금과면",
+  "active": true
+ },
+ {
+  "code": "5277035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 팔덕면",
+  "name": "팔덕면",
+  "active": true
+ },
+ {
+  "code": "5277036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 쌍치면",
+  "name": "쌍치면",
+  "active": true
+ },
+ {
+  "code": "5277037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 복흥면",
+  "name": "복흥면",
+  "active": true
+ },
+ {
+  "code": "5277038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 적성면",
+  "name": "적성면",
+  "active": true
+ },
+ {
+  "code": "5277039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 유등면",
+  "name": "유등면",
+  "active": true
+ },
+ {
+  "code": "5277040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5277000000",
+  "guName": "순창군",
+  "fullName": "전북특별자치도 순창군 구림면",
+  "name": "구림면",
+  "active": true
+ },
+ {
+  "code": "5279025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 고창읍",
+  "name": "고창읍",
+  "active": true
+ },
+ {
+  "code": "5279031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 고수면",
+  "name": "고수면",
+  "active": true
+ },
+ {
+  "code": "5279032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 아산면",
+  "name": "아산면",
+  "active": true
+ },
+ {
+  "code": "5279033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 무장면",
+  "name": "무장면",
+  "active": true
+ },
+ {
+  "code": "5279034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 공음면",
+  "name": "공음면",
+  "active": true
+ },
+ {
+  "code": "5279035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 상하면",
+  "name": "상하면",
+  "active": true
+ },
+ {
+  "code": "5279036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 해리면",
+  "name": "해리면",
+  "active": true
+ },
+ {
+  "code": "5279037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 성송면",
+  "name": "성송면",
+  "active": true
+ },
+ {
+  "code": "5279038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 대산면",
+  "name": "대산면",
+  "active": true
+ },
+ {
+  "code": "5279039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 심원면",
+  "name": "심원면",
+  "active": true
+ },
+ {
+  "code": "5279040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 흥덕면",
+  "name": "흥덕면",
+  "active": true
+ },
+ {
+  "code": "5279041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 성내면",
+  "name": "성내면",
+  "active": true
+ },
+ {
+  "code": "5279042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 신림면",
+  "name": "신림면",
+  "active": true
+ },
+ {
+  "code": "5279043000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5279000000",
+  "guName": "고창군",
+  "fullName": "전북특별자치도 고창군 부안면",
+  "name": "부안면",
+  "active": true
+ },
+ {
+  "code": "5280025000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 부안읍",
+  "name": "부안읍",
+  "active": true
+ },
+ {
+  "code": "5280031000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 주산면",
+  "name": "주산면",
+  "active": true
+ },
+ {
+  "code": "5280032000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 동진면",
+  "name": "동진면",
+  "active": true
+ },
+ {
+  "code": "5280033000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 행안면",
+  "name": "행안면",
+  "active": true
+ },
+ {
+  "code": "5280034000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 계화면",
+  "name": "계화면",
+  "active": true
+ },
+ {
+  "code": "5280035000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 보안면",
+  "name": "보안면",
+  "active": true
+ },
+ {
+  "code": "5280036000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 변산면",
+  "name": "변산면",
+  "active": true
+ },
+ {
+  "code": "5280037000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 진서면",
+  "name": "진서면",
+  "active": true
+ },
+ {
+  "code": "5280038000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 백산면",
+  "name": "백산면",
+  "active": true
+ },
+ {
+  "code": "5280039000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 상서면",
+  "name": "상서면",
+  "active": true
+ },
+ {
+  "code": "5280040000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 하서면",
+  "name": "하서면",
+  "active": true
+ },
+ {
+  "code": "5280041000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 줄포면",
+  "name": "줄포면",
+  "active": true
+ },
+ {
+  "code": "5280042000",
+  "siCode": "5200000000",
+  "siName": "전북특별자치도",
+  "guCode": "5280000000",
+  "guName": "부안군",
+  "fullName": "전북특별자치도 부안군 위도면",
+  "name": "위도면",
   "active": true
  }
 ]

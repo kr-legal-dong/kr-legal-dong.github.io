@@ -57,7 +57,7 @@
  {
   "code": "4500000000",
   "name": "전라북도",
-  "active": true
+  "active": false
  },
  {
   "code": "4600000000",
@@ -87,6 +87,11 @@
  {
   "code": "5100000000",
   "name": "강원특별자치도",
+  "active": true
+ },
+ {
+  "code": "5200000000",
+  "name": "전북특별자치도",
   "active": true
  }
 ]
